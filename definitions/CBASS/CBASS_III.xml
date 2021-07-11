@@ -1,0 +1,34 @@
+<model inter_gene_max_space="6" min_mandatory_genes_required="3" min_genes_required="4" vers="2.0">
+
+<gene name="Cyclase_SMODS" presence="mandatory">
+<exchangeables>
+<gene name="A_Cyclase_AGS_C"/>
+<gene name="Cyclase100"/>
+</exchangeables>
+</gene>
+<gene name="Effector_1TM_DUF1043" presence="mandatory">
+<exchangeables>
+<gene name="Effector_2TM_S_2TMBeta"/>
+<gene name="Effector_2TM_Sa_NUDIX"/>
+<gene name="Effector_2TM_Saf_2TM"/>
+<gene name="2TM_Hyb"/>
+<gene name="2TM_Petit"/>
+<gene name="2TM_Gros"/>
+<gene name="Effector_2TM_SUa-2TM"/>
+<gene name="Effector_4TM_S_4TM"/>
+<gene name="Endonuc_Petit"/>
+<gene name="Endonuc_Gros"/>
+<gene name="Phospholipase"/>
+</exchangeables>
+</gene>
+<gene name="Sensing_SAVED" presence="accessory"/>
+<gene name="Sensing_TMEM173" presence="accessory"/>
+<gene name="Sensing_TPALS" presence="accessory"/>
+
+<gene name="TRIP13" presence="mandatory"/>
+<gene name="bacHORMA_1" presence="mandatory">
+<exchangeables>
+<gene name="bacHORMA_2"/>
+</exchangeables>
+</gene>
+</model>

@@ -1,0 +1,28 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="pglZB" presence="mandatory">
+<exchangeables>
+<gene name="pglZA"/>
+<gene name="pglZ2"/>
+<gene name="pglZ3"/>
+</exchangeables>
+</gene>
+<gene name="brxC" presence="mandatory"/>
+<gene name="pglY" presence="mandatory"/>
+<gene name="brxA_DUF1819" presence="mandatory"/>
+<gene name="brxB_DUF1788" presence="mandatory"/>
+<gene name="brxD" presence="mandatory"/>
+<gene name="brxE" presence="mandatory"/>
+<gene name="brxF" presence="mandatory"/>
+<gene name="brxHI" presence="mandatory"/>
+<gene name="brxHII" presence="mandatory"/>
+<gene name="brxL" presence="mandatory"/>
+<gene name="pglW" presence="mandatory"/>
+<gene name="pglXI" presence="mandatory"/>
+<gene name="pglX1" presence="mandatory">
+<exchangeables>
+<gene name="pglX2"/>
+</exchangeables>
+</gene>
+
+</model>

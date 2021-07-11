@@ -1,0 +1,12 @@
+<model inter_gene_max_space="2" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+<gene name="AbiEii" presence="mandatory"/>
+<gene name="AbiEi_1" presence="mandatory">
+<exchangeables>
+<gene name="AbiEi_2"/>
+<gene name="AbiEi_3"/>
+<gene name="AbiEi_4"/>
+</exchangeables>
+</gene>
+
+</model>
