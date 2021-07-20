@@ -38,8 +38,39 @@ git push
 
 The next step is to go to [the defense-finder-models Github repository](https://github.com/mdmparis/defense-finder-models) and submit a pull request.
 
-### Updating MacSyData repository 
+### Releasing 
 
-Once your pull request has been validated and merged, you need to update the [macsy-models repository](https://github.com/macsy-models).
+Once your pull request has been validated and merged, you need to create a release.
 
-[WIP]
+Decide of a new version number according to [semantic versionning](https://semver.org/).
+
+Then update the version number in `metadata.yml`, and merge it to master.
+
+Once you've done this, create a tarball with the following command (don't forget to replace <your-version> with your version).
+
+```
+tar -czf defense-finder-models-<your-version>.tar.gz \
+  ./defense-finder-models/LICENSE \
+  ./defense-finder-models/README.md \
+  ./defense-finder-models/definitions \
+  ./defense-finder-models/metadata.yml \
+  ./defense-finder-models/profiles/
+```
+
+Then go to [Github](https://github.com/mdmparis/defense-finder-models/releases).
+From there, create a new release with the correct version number and the tarball you've just created as attached file.
+
+One you've done this, your new version is discoverable through:
+
+```
+macsydata available --org mdmparis
+```
+
+And you can install it following those lines:
+
+```
+macsydata download --org mdmparis defense-finder-models
+macsydata install defense-finder-models-<version>.tar.gz 
+```
+
+Or if you're using the `mdm-defense-finder` python package, just run `defense-finder update`.
