@@ -73,4 +73,4 @@ macsydata download --org mdmparis defense-finder-models
 macsydata install defense-finder-models-<version>.tar.gz 
 ```
 
-Or if you're using the `mdm-defense-finder` python package, just run `defense-finder update`.
+Or if you're using the `mdmparis-defense-finder` python package, just run `defense-finder update`.
