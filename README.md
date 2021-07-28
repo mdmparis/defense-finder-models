@@ -11,7 +11,7 @@ The repo is formatted according to [MacSyData guidelines](https://macsyfinder.re
 To change the models, first create a new remove git branch from master:
 
 ```
-git push origin master <your-branch-name>
+git push origin master:<your-branch-name>
 ```
 
 Then checkout (= "go to") your branch locally:
@@ -28,17 +28,17 @@ macsydata check
 
 You can now commit and push:
 
-``` 
+```
 git status # Visualize which files have changed
 git add <the files you want to commit>
-git diff --cached # control what you're going to commit 
+git diff --cached # control what you're going to commit
 git commit -m 'Fixed the ... model'
 git push
 ```
 
 The next step is to go to [the defense-finder-models Github repository](https://github.com/mdmparis/defense-finder-models) and submit a pull request.
 
-### Releasing 
+### Releasing
 
 Once your pull request has been validated and merged, you need to create a release.
 
@@ -70,7 +70,7 @@ And you can install it following those lines:
 
 ```
 macsydata download --org mdmparis defense-finder-models
-macsydata install defense-finder-models-<version>.tar.gz 
+macsydata install defense-finder-models-<version>.tar.gz
 ```
 
 Or if you're using the `mdmparis-defense-finder` python package, just run `defense-finder update`.
