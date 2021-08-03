@@ -3,7 +3,7 @@
 <gene name="Cyclase_SMODS" presence="mandatory">
 <exchangeables>
 <gene name="A_Cyclase_AGS_C"/>
-<gene name="Cyclase100"/>
+<gene name="Cyclase_II"/>
 </exchangeables>
 </gene>
 <gene name="Effector_1TM_DUF1043" presence="mandatory">
@@ -16,8 +16,8 @@
 <gene name="2TM_Gros"/>
 <gene name="Effector_2TM_SUa-2TM"/>
 <gene name="Effector_4TM_S_4TM"/>
-<gene name="Endonuc_Petit"/>
-<gene name="Endonuc_Gros"/>
+<gene name="Endonuc_small"/>
+<gene name="Endonuc_big"/>
 <gene name="Phospholipase"/>
 </exchangeables>
 </gene>
