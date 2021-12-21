@@ -1,8 +1,8 @@
 ---
 maintainer:
-  name: Alexandre Hervé 
-  email: alexandreherve@protonmail.com 
+  name: Alexandre Hervé
+  email: alexandreherve@protonmail.com
 short_desc: Allow for a systematic search of all known anti-phage systems
-vers: 0.0.3
+vers: 0.1.0
 license: GPL-3.0
-doc: ./README.md 
+doc: ./README.md
