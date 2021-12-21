@@ -1,0 +1,30 @@
+<model inter_gene_max_space="6" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+<gene name="Cyclase_SMODS" presence="mandatory">
+<exchangeables>
+<gene name="A_Cyclase_AGS_C"/>
+<gene name="Cyclase_II"/>
+<gene name="AG_cyclase"/>
+<gene name="Cyclase_new"/>
+</exchangeables>
+</gene>
+<gene name="Effector_2TM_S_2TMBeta" presence="mandatory">
+<exchangeables>
+<gene name="Effector_2TM_Sa_NUDIX"/>
+<gene name="Effector_2TM_Saf_2TM"/>
+<gene name="2TM_new"/>
+<gene name="1TM_new"/>
+<gene name="4TM_new"/>
+<gene name="2TM_Gros"/>
+<gene name="2TM_type_IV"/>
+<gene name="Effector_2TM_SUa-2TM"/>
+<gene name="Effector_4TM_S_4TM"/>
+<gene name="Endonuc_small"/>
+<gene name="Endonuc_big"/>
+<gene name="Effector_TIR"/>
+<gene name="Phospholipase"/>
+<gene name="Sensing_TPALS"/>
+<gene name="Sensing_SAVED"/>
+</exchangeables>
+</gene>
+</model>
