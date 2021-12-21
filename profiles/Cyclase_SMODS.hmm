@@ -13,9 +13,7 @@ DATE  Wed Apr 22 20:37:16 2020
 NSEQ  34
 EFFN  2.677002
 CKSUM 1318667498
-GA    26.50 30.00;
-TC    26.50 30.00;
-NC    26.40 29.90;
+GA    20 20;
 BM    hmmbuild HMM.ann SEED.ann
 SM    hmmsearch -Z 47079205 -E 1000 --cpu 4 HMM pfamseq
 STATS LOCAL MSV       -9.9892  0.70803

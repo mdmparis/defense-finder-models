@@ -2,5 +2,6 @@
 
 <gene name="Type_I_MTases" presence="mandatory"/>
 <gene name="Type_I_REases" presence="mandatory"/>
+<gene name="Type_I_S" presence="accessory"/>
 
 </model>
