@@ -4,6 +4,7 @@
 <gene name="GajB_1" presence="mandatory">
 <exchangeables>
 <gene name="GajB_2"/>
+<gene name="GajB_3"/>
 </exchangeables>
 </gene>
 

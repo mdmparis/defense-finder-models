@@ -1,8 +1,14 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0" >
-<gene name="PtuA" presence="mandatory" />
+<gene name="PtuA" presence="mandatory">
+<exchangeables>
+<gene name="PtuA_2"/>
+
+</exchangeables>
+</gene>
 <gene name="PtuB" presence="mandatory">
 <exchangeables>
 <gene name="HNH_TIGR02646"/>
+<gene name="PtuB_2"/>
 </exchangeables>
 </gene>
 <gene name="RT_Tot" presence="forbidden"/>
