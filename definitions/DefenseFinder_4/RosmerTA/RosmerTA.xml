@@ -1,0 +1,40 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+<gene name="RosmerTA_RmrT_2585209417" presence="mandatory">
+<exchangeables>
+<gene name="RosmerTA_RmrT_2600853143"/>
+<gene name="RosmerTA_RmrT_2603008502"/>
+<gene name="RosmerTA_RmrT_2617826694"/>
+<gene name="RosmerTA_RmrT_2623274509"/>
+<gene name="RosmerTA_RmrT_2634882613"/>
+<gene name="RosmerTA_RmrT_2634932349"/>
+<gene name="RosmerTA_RmrT_2641389401"/>
+<gene name="RosmerTA_RmrT_2662548665"/>
+<gene name="RosmerTA_RmrT_2664250653"/>
+<gene name="RosmerTA_RmrT_2676476075"/>
+<gene name="RosmerTA_RmrT_2677172838"/>
+<gene name="RosmerTA_RmrT_2734955840"/>
+<gene name="RosmerTA_RmrT_2753529055"/>
+</exchangeables>
+</gene>
+
+<gene name="RosmerTA_RmrA_2585209417" presence="mandatory">
+<exchangeables>
+<gene name="RosmerTA_RmrA_2600853143"/>
+<gene name="RosmerTA_RmrA_2603008502"/>
+<gene name="RosmerTA_RmrA_2617826694"/>
+<gene name="RosmerTA_RmrA_2623274509"/>
+<gene name="RosmerTA_RmrA_2634882613"/>
+<gene name="RosmerTA_RmrA_2634932349"/>
+<gene name="RosmerTA_RmrA_2641389401"/>
+<gene name="RosmerTA_RmrA_2662548665"/>
+<gene name="RosmerTA_RmrA_2664250653"/>
+<gene name="RosmerTA_RmrA_2676476075"/>
+<gene name="RosmerTA_RmrA_2677172838"/>
+<gene name="RosmerTA_RmrA_2734955840"/>
+<gene name="RosmerTA_RmrA_2753529055"/>
+</exchangeables>
+</gene>
+
+
+</model>
