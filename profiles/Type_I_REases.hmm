@@ -1,5 +1,5 @@
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_0.einsi_trimmed
+NAME  Type_I_REases_FAM_0.einsi_trimmed
 LENG  1006
 ALPH  amino
 RF    no
@@ -3040,7 +3040,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.01077  4.53662        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_1.einsi_trimmed
+NAME  Type_I_REases_FAM_1.einsi_trimmed
 LENG  997
 ALPH  amino
 RF    no
@@ -6054,7 +6054,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.21175  1.65636        *  0.30630  1.33243  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_2.einsi_trimmed
+NAME  Type_I_REases_FAM_2.einsi_trimmed
 LENG  876
 ALPH  amino
 RF    no

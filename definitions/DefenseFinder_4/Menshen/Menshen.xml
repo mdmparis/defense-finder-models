@@ -1,0 +1,51 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+<gene name="Menshen_NsnA" presence="mandatory"/>
+<gene name="Menshen_NsnB" presence="mandatory"/>
+
+<gene name="Menshen_NsnC_2507451963" presence="mandatory">
+<exchangeables>
+<gene name="Menshen_NsnC_2512525018"/>
+<gene name="Menshen_NsnC_2512642389"/>
+<gene name="Menshen_NsnC_2515675032"/>
+<gene name="Menshen_NsnC_2518623264"/>
+<gene name="Menshen_NsnC_2524775996"/>
+<gene name="Menshen_NsnC_2525400098"/>
+<gene name="Menshen_NsnC_2525488910"/>
+<gene name="Menshen_NsnC_2583135648"/>
+<gene name="Menshen_NsnC_2596897843"/>
+<gene name="Menshen_NsnC_2597471359"/>
+<gene name="Menshen_NsnC_2598643479"/>
+<gene name="Menshen_NsnC_2601090942"/>
+<gene name="Menshen_NsnC_2602479687"/>
+<gene name="Menshen_NsnC_2602512313"/>
+<gene name="Menshen_NsnC_2617187710"/>
+<gene name="Menshen_NsnC_2619923329"/>
+<gene name="Menshen_NsnC_2623244837"/>
+<gene name="Menshen_NsnC_2631934571"/>
+<gene name="Menshen_NsnC_2632405575"/>
+<gene name="Menshen_NsnC_2635923458"/>
+<gene name="Menshen_NsnC_2637376592"/>
+<gene name="Menshen_NsnC_2639140027"/>
+<gene name="Menshen_NsnC_2641324761"/>
+<gene name="Menshen_NsnC_2646843772"/>
+<gene name="Menshen_NsnC_2656189766"/>
+<gene name="Menshen_NsnC_2656976156"/>
+<gene name="Menshen_NsnC_2660358384"/>
+<gene name="Menshen_NsnC_2661990395"/>
+<gene name="Menshen_NsnC_2670026569"/>
+<gene name="Menshen_NsnC_2676918070"/>
+<gene name="Menshen_NsnC_2696122707"/>
+<gene name="Menshen_NsnC_2701621510"/>
+<gene name="Menshen_NsnC_2705968471"/>
+<gene name="Menshen_NsnC_2710200711"/>
+<gene name="Menshen_NsnC_2723509649"/>
+<gene name="Menshen_NsnC_2726213746"/>
+<gene name="Menshen_NsnC_2726216653"/>
+<gene name="Menshen_NsnC_2729199380"/>
+<gene name="Menshen_NsnC_2730555401"/>
+<gene name="Menshen_NsnC_2745856126"/>
+</exchangeables>
+</gene>
+
+</model>

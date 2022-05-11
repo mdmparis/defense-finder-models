@@ -3,10 +3,10 @@
 <gene name="PrrC" presence="mandatory" />
 <gene name="EcoprrI" presence="mandatory">
 <exchangeables>
-<gene name="Type_I_REases"/>
+<gene name="Type_I_MTases"/>
 </exchangeables>
 </gene>
-<gene name="Type_I_MTases" presence="accessory"/>
+<gene name="Type_I_REases" presence="accessory"/>
 <gene name="Type_I_S" presence="accessory"/>
 
 </model>
