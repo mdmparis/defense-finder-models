@@ -1,0 +1,49 @@
+<model inter_gene_max_space="6" min_mandatory_genes_required="1" min_genes_required="2" vers="2.0">
+
+<gene name="Pycsar__AG_cyclase" presence="mandatory"/>
+<gene name="CBASS__Effector_2TM_S_2TMBeta" presence="accessory">
+<exchangeables>
+<gene name="CBASS__Effector_2TM_Sa_NUDIX"/>
+<gene name="CBASS__Effector_2TM_Saf_2TM"/>
+<gene name="CBASS__2TM_new"/>
+<gene name="CBASS__2TM_5"/>
+<gene name="CBASS__1TM_new"/>
+<gene name="CBASS__4TM_new"/>
+<gene name="CBASS__2TM_Gros"/>
+<gene name="CBASS__2TM_type_IV"/>
+<gene name="CBASS__Effector_2TM_SUa-2TM"/>
+<gene name="CBASS__Effector_4TM_S_4TM"/>
+<gene name="CBASS__Endonuc_small"/>
+<gene name="CBASS__Endonuc_big"/>
+<gene name="CBASS__Effector_TIR"/>
+<gene name="CBASS__Phospholipase"/>
+<gene name="CBASS__Sensing_TPALS"/>
+<gene name="CBASS__Sensing_SAVED"/>
+</exchangeables>
+</gene>
+
+<gene name="CBASS__E2" presence="neutral">
+<exchangeables>
+<gene name="CBASS__AG_E1_ThiF" />
+<gene name="CBASS__AG_E2_Prok-E2_B"/>
+<gene name="CBASS__E2_II"/>
+<gene name="CBASS__Jab"/>
+</exchangeables>
+</gene>
+
+<gene name="CBASS__HORMA" presence="neutral">
+<exchangeables>
+<gene name="CBASS__TRIP13"/>
+<gene name="CBASS__bacHORMA_2"/>
+<gene name="CBASS__bacHORMA_1"/>
+</exchangeables>
+</gene>
+
+<gene name="CBASS__TGT" presence="neutral">
+<exchangeables>
+<gene name="CBASS__QueC"/>
+<gene name="CBASS__OGG"/>
+</exchangeables>
+</gene>
+
+</model>

@@ -1,0 +1,11 @@
+<model inter_gene_max_space="2" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+
+<gene name="pAgo__pAgo_LongA" presence="mandatory">
+<exchangeables>
+<gene name="pAgo__pAgo_LongB"/>
+<gene name="pAgo__pAgo_Short"/>
+<gene name="pAgo__COG1431_pAgo"/>
+</exchangeables>
+</gene>
+
+</model>
