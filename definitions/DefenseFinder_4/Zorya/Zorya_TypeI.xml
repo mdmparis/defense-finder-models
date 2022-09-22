@@ -1,13 +1,13 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
 
 
-<gene name="ZorA" presence="mandatory">
+<gene name="Zorya__ZorA" presence="mandatory">
 <exchangeables>
-<gene name="ZorA2"/>
+<gene name="Zorya__ZorA2"/>
 </exchangeables>
 </gene>
-<gene name="ZorB" presence="mandatory"/>
-<gene name="ZorC" presence="mandatory"/>
-<gene name="ZorD" presence="mandatory"/>
+<gene name="Zorya__ZorB" presence="mandatory"/>
+<gene name="Zorya_TypeI__ZorC" presence="mandatory"/>
+<gene name="Zorya_TypeI__ZorD" presence="mandatory"/>
 
 </model>

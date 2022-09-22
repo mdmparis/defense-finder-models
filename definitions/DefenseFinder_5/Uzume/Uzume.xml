@@ -1,9 +1,9 @@
 <model inter_gene_max_space="2" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
 
-<gene name="Uzume_UzuA" presence="mandatory">
+<gene name="Uzume__UzuA" presence="mandatory">
 <exchangeables>
-<gene name="Uzume_UzuA_2660320622"/>
-<gene name="Uzume_UzuA_2712538620"/>
+<gene name="Uzume__UzuA_2660320622"/>
+<gene name="Uzume__UzuA_2712538620"/>
 </exchangeables>
 </gene>
 

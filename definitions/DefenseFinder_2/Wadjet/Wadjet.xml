@@ -1,29 +1,29 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="3" vers="2.0">
 
-<gene name="JetA_I" presence="mandatory">
+<gene name="Wadjet__JetA_I" presence="mandatory">
 <exchangeables>
-<gene name="JetA_II"/>
-<gene name="JetA_III"/>
+<gene name="Wadjet__JetA_II"/>
+<gene name="Wadjet__JetA_III"/>
 </exchangeables>
 </gene>
 
-<gene name="JetB_I" presence="accessory">
+<gene name="Wadjet__JetB_I" presence="accessory">
 <exchangeables>
-<gene name="JetB_II"/>
-<gene name="JetB_III"/>
+<gene name="Wadjet__JetB_II"/>
+<gene name="Wadjet__JetB_III"/>
 </exchangeables>
 </gene>
 
-<gene name="JetC_I" presence="accessory">
+<gene name="Wadjet__JetC_I" presence="accessory">
 <exchangeables>
-<gene name="JetC_II"/>
-<gene name="JetC_III"/>
+<gene name="Wadjet__JetC_II"/>
+<gene name="Wadjet__JetC_III"/>
 </exchangeables>
 </gene>
-<gene name="JetD_I" presence="accessory">
+<gene name="Wadjet__JetD_I" presence="accessory">
 <exchangeables>
-<gene name="JetD_II"/>
-<gene name="JetD_III"/>
+<gene name="Wadjet__JetD_II"/>
+<gene name="Wadjet__JetD_III"/>
 </exchangeables>
 </gene>
 
