@@ -1,13 +1,13 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="3" vers="2.0">
 
-<gene name="DruA" presence="accessory"/>
-<gene name="DruB" presence="accessory"/>
-<gene name="DruC" presence="accessory"/>
-<gene name="DruD" presence="accessory"/>
-<gene name="DruE_1" presence="mandatory">
+<gene name="Druantia_I__DruA" presence="accessory"/>
+<gene name="Druantia_I__DruB" presence="accessory"/>
+<gene name="Druantia_I__DruC" presence="accessory"/>
+<gene name="Druantia_I__DruD" presence="accessory"/>
+<gene name="Druantia__DruE_1" presence="mandatory">
 <exchangeables>
-<gene name="DruE_2"/>
-<gene name="DruE_3"/>
+<gene name="Druantia__DruE_2"/>
+<gene name="Druantia__DruE_3"/>
 </exchangeables>
 </gene>
 

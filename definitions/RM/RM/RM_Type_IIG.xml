@@ -1,12 +1,12 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
 
-<gene name="Type_IIG" presence="mandatory"/>
-<gene name="drmB" presence="forbidden"/>
-<gene name="pglZB" presence="forbidden">
+<gene name="RM_Type_IIG__Type_IIG" presence="mandatory"/>
+<gene name="DISARM__drmB" presence="forbidden"/>
+<gene name="BREX__pglZB" presence="forbidden">
 <exchangeables>
-<gene name="pglZA"/>
-<gene name="pglZ2"/>
-<gene name="pglZ3"/>
+<gene name="BREX__pglZA"/>
+<gene name="BREX__pglZ2"/>
+<gene name="BREX__pglZ3"/>
 </exchangeables>
 </gene>
 

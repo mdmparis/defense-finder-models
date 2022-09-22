@@ -1,13 +1,13 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="7" min_genes_required="7" vers="2.0">
 
-<gene name="DndB" presence="mandatory"/>
-<gene name="DndE" presence="mandatory"/>
-<gene name="DndC" presence="mandatory"/>
-<gene name="DndD" presence="mandatory"/>
-<gene name="DndA" presence="accessory"/>
-<gene name="DptF" presence="mandatory"/>
-<gene name="DptG" presence="mandatory"/>
-<gene name="DptH" presence="mandatory"/>
+<gene name="Dnd__DndB" presence="mandatory"/>
+<gene name="Dnd__DndE" presence="mandatory"/>
+<gene name="Dnd__DndC" presence="mandatory"/>
+<gene name="Dnd__DndD" presence="mandatory"/>
+<gene name="Dnd__DndA" presence="accessory"/>
+<gene name="Dnd_ABCDEFGH__DptF" presence="mandatory"/>
+<gene name="Dnd_ABCDEFGH__DptG" presence="mandatory"/>
+<gene name="Dnd_ABCDEFGH__DptH" presence="mandatory"/>
 
 
 </model>
