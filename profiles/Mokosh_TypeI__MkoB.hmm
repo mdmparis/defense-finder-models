@@ -11,8 +11,8 @@ DATE  Tue Sep  7 12:07:48 2021
 NSEQ  231
 EFFN  9.160904
 CKSUM 1668547611
+GA    20 20;
 STATS LOCAL MSV      -11.7730  0.69715
-GA    50 50;
 STATS LOCAL VITERBI  -13.3286  0.69715
 STATS LOCAL FORWARD   -5.6788  0.69715
 HMM          A        C        D        E        F        G        H        I        K        L        M        N        P        Q        R        S        T        V        W        Y   
