@@ -1,0 +1,16 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+<gene name="Eleos__LeoA" presence="mandatory">
+<exchangeables>
+<gene name="Eleos__LeoA2"/>
+</exchangeables>
+</gene>
+
+<gene name="Eleos__LeoBC" presence="mandatory"/>
+
+
+<gene name="Eleos__LeoB" presence="mandatory"/>
+
+<gene name="Eleos__LeoC" presence="mandatory"/>
+
+</model>
