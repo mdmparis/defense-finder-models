@@ -7,22 +7,29 @@
 <gene name="BREX__pglZ3"/>
 </exchangeables>
 </gene>
-<gene name="BREX__brxC" presence="mandatory"/>
-<gene name="BREX__pglY" presence="mandatory"/>
-<gene name="BREX__brxA_DUF1819" presence="neutral"/>
-<gene name="BREX__brxB_DUF1788" presence="neutral"/>
-<gene name="BREX__brxD" presence="neutral"/>
-<gene name="BREX__brxE" presence="neutral"/>
-<gene name="BREX__brxF" presence="neutral"/>
-<gene name="BREX__brxHI" presence="neutral"/>
-<gene name="BREX__brxHII" presence="neutral"/>
-<gene name="BREX__brxL" presence="neutral"/>
-<gene name="BREX__pglW" presence="neutral"/>
-<gene name="BREX__pglXI" presence="accessory"/>
+<gene name="BREX__brxC" presence="accessory">
+<exchangeables>
+<gene name="BREX__pglY"/>
+<gene name="BREX__brxC4"/>
+</exchangeables>
+</gene>
+
 <gene name="BREX__pglX1" presence="accessory">
 <exchangeables>
 <gene name="BREX__pglX2"/>
 </exchangeables>
 </gene>
+
+<gene name="BREX__brxA_DUF1819" presence="accessory"/>
+<gene name="BREX__brxB_DUF1788" presence="accessory"/>
+<gene name="BREX__brxD" presence="accessory"/>
+<gene name="BREX__brxE" presence="accessory"/>
+<gene name="BREX__brxF" presence="accessory"/>
+<gene name="BREX__brxHI" presence="accessory"/>
+<gene name="BREX__brxHII" presence="accessory"/>
+<gene name="BREX__brxL" presence="accessory"/>
+<gene name="BREX__brxP" presence="accessory"/>
+<gene name="BREX__pglW" presence="accessory"/>
+<gene name="BREX__pglXI" presence="accessory"/>
 
 </model>

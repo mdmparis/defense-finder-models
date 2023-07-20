@@ -1,15 +1,34 @@
 <model inter_gene_max_space="10" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
 
+
+<gene name="BREX__brxC" presence="accessory">
+<exchangeables>
+<gene name="BREX__pglY"/>
+<gene name="BREX__brxC4"/>
+</exchangeables>
+</gene>
+<gene name="BREX__brxL" presence="mandatory"/>
+<gene name="BREX__brxP" presence="mandatory"/>
+
 <gene name="BREX__pglZB" presence="accessory">
 <exchangeables>
 <gene name="BREX__pglZA"/>
 <gene name="BREX__pglZ2"/>
 <gene name="BREX__pglZ3"/>
+<gene name="BREX__pglZ4"/>
 </exchangeables>
 </gene>
-<gene name="BREX__brxC" presence="accessory"/>
-<gene name="BREX__pglY" presence="mandatory"/>
-<gene name="BREX__brxL" presence="mandatory"/>
-<gene name="BREX__brxP" presence="mandatory"/>
+
+<gene name="BREX__brxA_DUF1819" presence="forbidden"/>
+<gene name="BREX__brxB_DUF1788" presence="forbidden"/>
+<gene name="BREX__pglW" presence="forbidden"/>
+<gene name="BREX__brxF" presence="forbidden"/>
+<gene name="BREX__brxE" presence="forbidden"/>
+<gene name="BREX__brxHI" presence="forbidden"/>
+<gene name="BREX__pglX1" presence="forbidden"/>
+<gene name="BREX__pglX2" presence="forbidden"/>
+<gene name="BREX__brxD" presence="forbidden"/>
+<gene name="BREX__pglXI" presence="forbidden"/>
+<gene name="BREX__brxHII" presence="forbidden"/>
 
 </model>
