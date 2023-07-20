@@ -1,0 +1,19 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+<gene name="Butters_gp30_gp31__Butters_gp30" presence="mandatory">
+<exchangeables>
+<gene name="Butters_gp30_gp31__Sbash_gp30"/>
+<gene name="Butters_gp30_gp31__CarolAnn_gp44"/>
+</exchangeables>
+</gene>
+
+
+<gene name="Butters_gp30_gp31__Butters_gp31" presence="mandatory">
+<exchangeables>
+<gene name="Butters_gp30_gp31__Sbash_gp31"/>
+<gene name="Butters_gp30_gp31__CarolAnn_gp43"/>
+</exchangeables>
+</gene>
+
+</model>
+
