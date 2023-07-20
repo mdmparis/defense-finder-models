@@ -1,7 +1,7 @@
 HMMER3/f [3.1b2 | February 2015]
-NAME  AbiEii
+NAME  AbiEii__AbiEii
 ACC   PF08843.12
-DESC  Nucleotidyl transferase AbiEii toxin, Type IV TA system
+DESC  Nucleotidyl transferase AbiEii__AbiEii toxin, Type IV TA system
 LENG  239
 ALPH  amino
 RF    no
