@@ -1,0 +1,14 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+
+<gene name="MADS__mad1" presence="mandatory"/>
+<gene name="MADS__mad2" presence="mandatory"/>
+<gene name="MADS__mad3" presence="mandatory"/>
+<gene name="MADS__mad4" presence="mandatory"/>
+<gene name="MADS__mad5" presence="mandatory"/>
+<gene name="MADS__mad6" presence="mandatory"/>
+<gene name="MADS__mad7" presence="mandatory"/>
+<gene name="MADS__mad8" presence="mandatory"/>
+
+
+</model>

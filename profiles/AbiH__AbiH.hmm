@@ -1,7 +1,7 @@
 HMMER3/f [3.1b2 | February 2015]
-NAME  AbiH
+NAME  AbiH__AbiH
 ACC   PF14253.7
-DESC  Bacteriophage abortive infection AbiH
+DESC  Bacteriophage abortive infection AbiH__AbiH
 LENG  263
 ALPH  amino
 RF    no

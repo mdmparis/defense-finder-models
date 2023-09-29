@@ -1,0 +1,14 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+<gene name="Paris_I__AriA_AAA15" presence="mandatory">
+<exchangeables>
+<gene name="Paris_I__AAA_15"/>
+</exchangeables>
+</gene>
+
+<gene name="Paris_I__AriB_DUF4435_I" presence="mandatory">
+<exchangeables>
+<gene name="Paris__DUF4435"/>
+</exchangeables>
+</gene>
+
+</model>

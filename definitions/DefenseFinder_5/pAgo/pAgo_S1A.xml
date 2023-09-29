@@ -1,0 +1,17 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+
+<gene name="pAgo__pAgo_S1A" presence="mandatory"/>
+
+<gene name="pAgo__SIR2APAZ" presence="forbidden"/>
+<gene name="pAgo__TIRAPAZ" presence="forbidden"/>
+<gene name="pAgo__XAPAZ" presence="forbidden"/>
+<gene name="pAgo__EabAgaM" presence="forbidden"/>
+<gene name="pAgo__GbbAgaS" presence="forbidden"/>
+<gene name="pAgo__EcAgaN" presence="forbidden"/>
+<gene name="pAgo__pAgo_LongA" presence="forbidden"/>
+<gene name="pAgo__pAgo_LongB" presence="forbidden"/>
+<gene name="pAgo__pAgo_SPARTA" presence="forbidden"/>
+<gene name="pAgo__pAgo_S1B" presence="forbidden"/>
+<gene name="pAgo__pAgo_S2B" presence="forbidden"/>
+</model>
+
