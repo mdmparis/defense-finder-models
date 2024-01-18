@@ -37,6 +37,15 @@ git push
 ```
 
 The next step is to go to [the defense-finder-models Github repository](https://github.com/mdmparis/defense-finder-models) and submit a pull request.
+### Update the release updates file
+
+Add one line per new system.
+
+Add a column with 0 and 1 for the presence of each system in the new version.
+
+Add one Status_vx.x.x for each system: New, modified, removed or From version vx.x.x (version where the system appears).
+
+Add one column Comment_vx.x.x: with information on the modification or other comment.
 
 ### Releasing
 

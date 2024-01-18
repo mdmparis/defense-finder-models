@@ -1,0 +1,155 @@
+System	v1.0.0	v1.2.3	Status_v1.2.3	Comment_v1.2.3
+AbiA	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiB	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiC	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiD	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiG	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiI	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiJ	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiK	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiL	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiN	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiO	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiP2	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiQ	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiR	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiT	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiU	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiV	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+AbiZ	0	1	New	Previously descibed: 10.1016/j.mib.2005.06.006
+Aditi	0	1	New	
+Azaca	0	1	New	
+Borvo	0	1	New	
+Bunzi	0	1	New	
+Butters_gp30_gp31	0	1	New	Previously descibed: 10.1128/msystems.00534-20
+Butters_gp57r	0	1	New	
+CapRel	0	1	New	
+CARD_NLR	0	1	New	
+Charlie_gp32	0	1	New	Previously descibed: 10.1038/nmicrobiol.2016.251
+Dazbog	0	1	New	
+Detocs	0	1	New	
+DmdDE	0	1	New	
+Dodola	0	1	New	
+Dpd	0	1	New	Previously descibed: 10.1073/pnas.1518570113
+Eleos	0	1	New	
+FS_GIY_YIG	0	1	New	
+FS_HEPN_TM	0	1	New	
+FS_HP	0	1	New	
+FS_HP_SDH_sah	0	1	New	
+FS_HsdR_like	0	1	New	
+FS_Sma	0	1	New	
+GAPS1	0	1	New	
+GAPS2	0	1	New	
+GAPS4	0	1	New	
+GAPS6	0	1	New	
+Hna	0	1	New	
+ISG15-like	0	1	New	
+JukAB	0	1	New	
+MADS	0	1	New	
+MazEF	0	1	New	Previously descibed: 10.1007/s00438-004-1048-y
+Menshen	0	1	New	
+MMB_gp29_gp30	0	1	New	Previously descibed: 10.1038/nmicrobiol.2016.251
+Mok_Hok_Sok	0	1	New	Previously descibed: 10.1128/jb.178.7.2044-2050.1996
+Mokosh	0	1	New	
+MqsRAC	0	1	New	
+NLR	0	1	New	
+Olokun	0	1	New	
+pAgo	0	1	New	Previously descibed: 10.1038/s41586-020-2605-1
+Panchino_gp28	0	1	New	Previously descibed: 10.1038/nmicrobiol.2016.251
+PD-Lambda-1	0	1	New	
+PD-Lambda-2	0	1	New	
+PD-Lambda-3	0	1	New	
+PD-Lambda-4	0	1	New	
+PD-Lambda-5	0	1	New	
+PD-Lambda-6	0	1	New	
+PD-T4-1	0	1	New	
+PD-T4-10	0	1	New	
+PD-T4-2	0	1	New	
+PD-T4-3	0	1	New	
+PD-T4-4	0	1	New	
+PD-T4-5	0	1	New	
+PD-T4-6	0	1	New	
+PD-T4-7	0	1	New	
+PD-T4-8	0	1	New	
+PD-T4-9	0	1	New	
+PD-T7-1	0	1	New	
+PD-T7-2	0	1	New	
+PD-T7-3	0	1	New	
+PD-T7-4	0	1	New	
+PD-T7-5	0	1	New	
+PfiAT	0	1	New	
+Phrann_gp29_gp30	0	1	New	Previously descibed: 10.1038/nmicrobiol.2016.251
+PsyrTA	0	1	New	
+Pycsar	0	1	New	
+RloC	0	1	New	Previously descibed: 10.1111/mmi.13074
+RnlAB	0	1	New	Previously descibed: 10.1534/genetics.110.121798
+RosmerTA	0	1	New	
+SanaTA	0	1	New	Previously descibed: 10.1016/j.molcel.2013.02.002
+SEFIR	0	1	New	
+Shango	0	1	New	
+ShosTA	0	1	New	Replace and more sentive (new profiles) for Rst_DprA-PPRT
+SoFIC	0	1	New	
+SpbK	0	1	New	
+Tiamat	0	1	New	
+Uzume	0	1	New	
+Abi2	1	1	From version v1.0.0	
+AbiE	1	1	Modified	Rename from AbiEii
+AbiH	1	1	From version v1.0.0	
+Avs	1	1	Modified	Renamed from AVAST
+BREX	1	1	Modified	Subsystem definition change for better detection
+BstA	1	1	From version v1.0.0	
+Cas	1	1	Modified	Now downloaded from CasFinder (https://github.com/macsy-models/CasFinder)
+CBASS	1	1	From version v1.0.0	
+DarTG	1	1	From version v1.0.0	
+dCTPdeaminase	1	1	From version v1.0.0	
+dGTPase	1	1	From version v1.0.0	
+DISARM	1	1	From version v1.0.0	
+Dnd	1	1	From version v1.0.0	
+DRT	1	1	Modified	Add 4 new subsystems
+Druantia	1	1	From version v1.0.0	
+Dsr	1	1	From version v1.0.0	
+Gabija	1	1	From version v1.0.0	
+Gao_Ape	1	1	From version v1.0.0	
+Gao_Her	1	1	From version v1.0.0	
+Gao_Hhe	1	1	From version v1.0.0	
+Gao_Iet	1	1	From version v1.0.0	
+Gao_Mza	1	1	From version v1.0.0	
+Gao_Ppl	1	1	From version v1.0.0	
+Gao_Qat	1	1	From version v1.0.0	
+Gao_RL	1	1	From version v1.0.0	
+Gao_TerY	1	1	From version v1.0.0	
+Gao_Tmn	1	1	From version v1.0.0	
+Gao_Upx	1	1	From version v1.0.0	
+GasderMIN	1	1	From version v1.0.0	
+Hachiman	1	1	From version v1.0.0	
+Kiwa	1	1	From version v1.0.0	
+Lamassu-Fam	1	1	Modified	Rename from Lamassu and add different subsystems
+Lit	1	1	From version v1.0.0	
+Nhi	1	1	From version v1.0.0	
+NixI	1	1	From version v1.0.0	
+Old_exonuclease	1	1	Modified	Renamed from Rst_Old_Tin
+Paris	1	1	Modified	Renamed from Rst_PARIS
+Pif	1	1	From version v1.0.0	
+PrrC	1	1	From version v1.0.0	
+RADAR	1	1	From version v1.0.0	
+Retron	1	1	From version v1.0.0	
+RexAB	1	1	From version v1.0.0	
+RM	1	1	From version v1.0.0	
+Rst_2TM_1TM_TIR	1	1	From version v1.0.0	
+Rst_3HP	1	1	From version v1.0.0	
+Rst_DUF4238	1	1	From version v1.0.0	
+Rst_gop_beta_cll	1	1	From version v1.0.0	
+Rst_HelicaseDUF2290	1	1	From version v1.0.0	
+Rst_Hydrolase-3Tm	1	1	From version v1.0.0	
+Rst_RT-nitrilase-Tm	1	1	From version v1.0.0	
+Rst_TIR-NLR	1	1	From version v1.0.0	
+Septu	1	1	From version v1.0.0	
+Shedu	1	1	From version v1.0.0	
+SspBCDE	1	1	From version v1.0.0	
+Stk2	1	1	From version v1.0.0	
+Thoeris	1	1	From version v1.0.0	
+Viperin	1	1	From version v1.0.0	
+Wadjet	1	1	From version v1.0.0	
+Zorya	1	1	From version v1.0.0	
+Rst_DprA-PPRT	1	0	Removed	Contained in ShosTA
+
