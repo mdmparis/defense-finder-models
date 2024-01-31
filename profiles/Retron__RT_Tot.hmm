@@ -1,5 +1,5 @@
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_1
 LENG  312
 ALPH  amino
 RF    no
@@ -958,7 +958,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.36646  1.18150        *  0.98501  0.46750  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_2
 LENG  317
 ALPH  amino
 RF    no
@@ -1932,7 +1932,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.06452  2.77280        *  0.48720  0.95281  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_3
 LENG  362
 ALPH  amino
 RF    no
@@ -3041,7 +3041,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.43539  1.04132        *  1.10260  0.40348  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_4
 LENG  312
 ALPH  amino
 RF    no
@@ -4000,7 +4000,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.60365  0.79145        *  1.57204  0.23272  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_5
 LENG  489
 ALPH  amino
 RF    no
@@ -5490,7 +5490,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.43940  1.03401        *  1.04381  0.43404  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_6
 LENG  325
 ALPH  amino
 RF    no
@@ -6488,7 +6488,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.65320  0.73475        *  3.40962  0.03361  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_7
 LENG  378
 ALPH  amino
 RF    no
@@ -7645,7 +7645,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.03311  3.42441        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_8
 LENG  394
 ALPH  amino
 RF    no
@@ -8850,7 +8850,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.23481  1.56409        *  0.88737  0.53058  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_9
 LENG  391
 ALPH  amino
 RF    no
@@ -10046,7 +10046,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.26083  1.47146        *  0.66396  0.72322  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_10
 LENG  325
 ALPH  amino
 RF    no
@@ -11044,7 +11044,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.83714  0.56730        *  2.70608  0.06913  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_11
 LENG  335
 ALPH  amino
 RF    no
@@ -12072,7 +12072,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.60129  0.79430        *  2.18935  0.11877  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_12
 LENG  318
 ALPH  amino
 RF    no
@@ -13049,7 +13049,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.25798  1.48108        *  1.72815  0.19554  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_13
 LENG  321
 ALPH  amino
 RF    no
@@ -14035,7 +14035,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.40536  1.09882        *  1.89635  0.16266  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_14
 LENG  287
 ALPH  amino
 RF    no
@@ -14919,7 +14919,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.41267  1.08437        *  3.27485  0.03856  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Retron__RT_Tot
+NAME  Retron__RT_Tot_15
 LENG  654
 ALPH  amino
 RF    no

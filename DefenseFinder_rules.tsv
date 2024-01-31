@@ -134,7 +134,7 @@ Wadjet	Wadjet_II	Wadjet__JetA_II, Wadjet__JetB_II, Wadjet__JetC_II, Wadjet__JetD
 Wadjet	Wadjet_III	Wadjet__JetA_III, Wadjet__JetB_III, Wadjet__JetC_III, Wadjet__JetD_III			
 Azaca	Azaca	Azaca__ZacA, Azaca__ZacB, Azaca__ZacC			
 CapRel	CapRel	CapRel__CapRel			
-DmdDE	DdmDE	DdmDE__DdmE, DmdDE__DdmD			
+DdmDE	DdmDE	DdmDE__DdmE, DdmdDE__DdmD			
 Druantia	Druantia_I	Druantia__DruE_1, Druantia__DruE_2, Druantia__DruE_3	Druantia_I__DruA, Druantia_I__DruB, Druantia_I__DruC, Druantia_I__DruD		
 Druantia	Druantia_II	Druantia__DruE_1, Druantia__DruE_2, Druantia__DruE_3	Druantia_II__DruF, Druantia_II__DruG, Druantia_II__DruM		
 Druantia	Druantia_III	Druantia_III__DruH, Druantia__DruE_1, Druantia__DruE_2, Druantia__DruE_3			

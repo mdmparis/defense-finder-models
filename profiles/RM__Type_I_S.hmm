@@ -1,5 +1,5 @@
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_I_S_01
+NAME  RM__Type_I_S___Type_I_S_01
 LENG  716
 ALPH  amino
 RF    no
@@ -2170,7 +2170,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.42761  1.05575        *  1.24905  0.33796  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_I_S_02
+NAME  RM__Type_I_S___Type_I_S_02
 LENG  438
 ALPH  amino
 RF    no
@@ -3507,7 +3507,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.01119  4.49847        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_I_S_03
+NAME  RM__Type_I_S___Type_I_S_03
 LENG  476
 ALPH  amino
 RF    no
@@ -4958,7 +4958,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.00679  4.99505        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_I_S_04
+NAME  RM__Type_I_S___Type_I_S_04
 LENG  476
 ALPH  amino
 RF    no
@@ -6409,7 +6409,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.01583  4.15390        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_I_S_06
+NAME  RM__Type_I_S___Type_I_S_06
 LENG  459
 ALPH  amino
 RF    no
@@ -7809,7 +7809,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.02486  3.70673        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_I_S_51
+NAME  RM__Type_I_S___Type_I_S_51
 LENG  500
 ALPH  amino
 RF    no
@@ -9332,7 +9332,7 @@ HMM          A        C        D        E        F        G        H        I   
           0.00764  4.87879        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_I_S_52
+NAME  RM__Type_I_S___Type_I_S_52
 LENG  584
 ALPH  amino
 RF    no
