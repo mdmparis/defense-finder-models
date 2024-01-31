@@ -27,7 +27,7 @@
 <gene name="CARD_NLR__Endonuclease" presence="forbidden"/>
 <gene name="CARD_NLR__Endonuclease_new" presence="forbidden"/>
 <gene name="CARD_NLR__Trypsine_Endonuclease_new" presence="forbidden"/>
-<gene name="CARD_NLR__Subtilase_long_new" presence="forbidden"/>
+<!-- <gene name="CARD_NLR__Subtilase_long_new" presence="forbidden"/> -->
 <gene name="CARD_NLR__Subtilase_small_new" presence="forbidden"/>
 <gene name="CARD_NLR__Subtilase" presence="forbidden"/>
 
