@@ -34,9 +34,9 @@
 </exchangeables>
 </gene>
 
-<gene name="CARD_NLR__Subtilase_long_new" presence="mandatory" >
+<gene name="CARD_NLR__Subtilase_small_new" presence="mandatory" >
 <exchangeables>
-<gene name="CARD_NLR__Subtilase_small_new" />
+<!-- <gene name="CARD_NLR__Subtilase_long_new" /> -->
 <gene name="CARD_NLR__Subtilase" />
 </exchangeables>
 </gene>
