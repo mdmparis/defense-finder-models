@@ -31,7 +31,7 @@
 </exchangeables>
 </gene>
 
-<gene name="CARD_NLR__Subtilase_long_new" presence="forbidden"/>
+<!-- <gene name="CARD_NLR__Subtilase_long_new" presence="forbidden"/> -->
 <gene name="CARD_NLR__Subtilase_small_new" presence="forbidden"/>
 <gene name="CARD_NLR__Subtilase" presence="forbidden"/>
 <gene name="CARD_NLR__Trypsin_Phospho" presence="forbidden"/>
