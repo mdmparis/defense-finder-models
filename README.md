@@ -4,7 +4,13 @@ This repository contains MacSyFinder models allowing for a systematic search of 
 
 The repo is formatted according to [MacSyData guidelines](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/index.html) and synchronized with [macsy-models repository](https://github.com/macsy-models) to be available in macsydata.
 
-## Contributing
+## More information on the systems
+
+To simplify the access to the detection rules of the models we created a table (DefenseFinder_rules.tsv) that recapitulate all the rules of detections for each systems.
+
+For the HMM models, we added the "Liste_hmm_system.md" to give all the threshold used for each models.
+
+More information on the different systems are available on the [DefenseFinder wiki](https://defensefinder.mdmlab.fr/wiki/).
 
 ### Modifying the models
 
