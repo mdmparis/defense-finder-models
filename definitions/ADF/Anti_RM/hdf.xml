@@ -1,0 +1,9 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+<gene name="hdf" presence="mandatory"/>
+
+<gene name="darb" presence="forbidden"/>
+<gene name="dara" presence="forbidden"/>
+<gene name="ddra" presence="forbidden"/>
+<gene name="ddrb" presence="forbidden"/>
+<gene name="ulx" presence="forbidden"/>
+</model>
