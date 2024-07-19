@@ -1,0 +1,16 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+<gene name="aca1" presence="mandatory"/>
+<gene name="aca10" presence="mandatory"/>
+<gene name="aca11" presence="mandatory"/>
+<gene name="aca12" presence="mandatory"/>
+<gene name="aca13" presence="mandatory"/>
+<gene name="aca2" presence="mandatory"/>
+<gene name="aca3" presence="mandatory"/>
+<gene name="aca4" presence="mandatory"/>
+<gene name="aca5" presence="mandatory"/>
+<gene name="aca6" presence="mandatory"/>
+<gene name="aca7" presence="mandatory"/>
+<gene name="aca8" presence="mandatory"/>
+<gene name="aca9" presence="mandatory"/>
+</model>
+

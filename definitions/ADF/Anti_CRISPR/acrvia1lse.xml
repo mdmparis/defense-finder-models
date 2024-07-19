@@ -1,0 +1,16 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+<gene name="acrvia1lse" presence="mandatory"/>
+<gene name="aca1" presence="accessory" multi_model="1"/>
+<gene name="aca10" presence="accessory" multi_model="1"/>
+<gene name="aca11" presence="accessory" multi_model="1"/>
+<gene name="aca12" presence="accessory" multi_model="1"/>
+<gene name="aca13" presence="accessory" multi_model="1"/>
+<gene name="aca2" presence="accessory" multi_model="1"/>
+<gene name="aca3" presence="accessory" multi_model="1"/>
+<gene name="aca4" presence="accessory" multi_model="1"/>
+<gene name="aca5" presence="accessory" multi_model="1"/>
+<gene name="aca6" presence="accessory" multi_model="1"/>
+<gene name="aca7" presence="accessory" multi_model="1"/>
+<gene name="aca8" presence="accessory" multi_model="1"/>
+<gene name="aca9" presence="accessory" multi_model="1"/>
+</model>

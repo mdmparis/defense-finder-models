@@ -3,7 +3,7 @@ maintainer:
   name: Florian Tesson
   email: florian.tesson@pasteur.fr
 short_desc: Allow for a systematic search of all known anti-phage systems
-vers: 1.2.4
+vers: 1.3.0
 license: GPL-3.0
 doc: https://defensefinder.mdmlab.fr/wiki
 cite:
