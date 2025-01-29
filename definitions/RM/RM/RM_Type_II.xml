@@ -1,6 +1,94 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
 
-<gene name="RM_Type_II__Type_II_MTases" presence="mandatory"/>
-<gene name="RM_Type_II__Type_II_REases" presence="mandatory"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_0" presence="mandatory">
+<exchangeables>
+<gene name="RM_Type_II__Type_II_MTases_FAM_1"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_10"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_11"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_12"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_13"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_14"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_15"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_16"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_17"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_18"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_19"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_2"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_20"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_21"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_22"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_23"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_24"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_25"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_26"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_27"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_28"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_29"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_3"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_30"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_31"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_32"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_33"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_34"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_35"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_36"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_37"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_38"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_39"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_4"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_40"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_41"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_42"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_5"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_6"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_7"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_8"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_9"/>
+</exchangeables>
+</gene>
+<gene name="RM_Type_II__Type_II_REase01" presence="mandatory">
+<exchangeables>
+<gene name="RM_Type_II__Type_II_REase02"/>
+<gene name="RM_Type_II__Type_II_REase03"/>
+<gene name="RM_Type_II__Type_II_REase04"/>
+<gene name="RM_Type_II__Type_II_REase05"/>
+<gene name="RM_Type_II__Type_II_REase06"/>
+<gene name="RM_Type_II__Type_II_REase07"/>
+<gene name="RM_Type_II__Type_II_REase08"/>
+<gene name="RM_Type_II__Type_II_REase09"/>
+<gene name="RM_Type_II__Type_II_REase10"/>
+<gene name="RM_Type_II__Type_II_REase11"/>
+<gene name="RM_Type_II__Type_II_REase20"/>
+<gene name="RM_Type_II__Type_II_REase21"/>
+<gene name="RM_Type_II__Type_II_REase22"/>
+<gene name="RM_Type_II__Type_II_REase23"/>
+<gene name="RM_Type_II__Type_II_REase24"/>
+<gene name="RM_Type_II__Type_II_REase25"/>
+<gene name="RM_Type_II__Type_II_REase26"/>
+<gene name="RM_Type_II__Type_II_REase27"/>
+<gene name="RM_Type_II__Type_II_REase28"/>
+<gene name="RM_Type_II__Type_II_REase29"/>
+<gene name="RM_Type_II__Type_II_REase12"/>
+<gene name="RM_Type_II__Type_II_REase30"/>
+<gene name="RM_Type_II__Type_II_REase31"/>
+<gene name="RM_Type_II__Type_II_REase32"/>
+<gene name="RM_Type_II__Type_II_REase13"/>
+<gene name="RM_Type_II__Type_II_REase14"/>
+<gene name="RM_Type_II__Type_II_REase15"/>
+<gene name="RM_Type_II__Type_II_REase16"/>
+<gene name="RM_Type_II__Type_II_REase17"/>
+<gene name="RM_Type_II__Type_II_REase18"/>
+<gene name="RM_Type_II__Type_II_REase19"/>
+<gene name="RM_Type_II__Type_II_REase33"/>
+<gene name="RM_Type_II__Type_II_REase34"/>
+<gene name="RM_Type_II__Type_II_REase35"/>
+<gene name="RM_Type_II__Type_II_REase36"/>
+<gene name="RM_Type_II__Type_II_REase37"/>
+<gene name="RM_Type_II__Type_II_REase38"/>
+</exchangeables>
+</gene>
+
+<gene name="Gao_Mza__MzaC" presence="neutral"/>
+<gene name="Gao_Mza__MzaB" presence="neutral"/>
 
 </model>

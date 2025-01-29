@@ -1,0 +1,13 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+
+<gene name="RM_Type_IIG__Type_IIG_4" presence="mandatory"/>
+<gene name="RM_Type_IIG__Type_IIG_5" presence="mandatory"/>
+<gene name="RM_Type_IIG__Type_IIG_FAM_0.einsi_trimmed" presence="mandatory"/>
+
+
+<gene name="BREX__pglX1" presence="forbidden"/>
+<gene name="BREX__pglX2" presence="forbidden"/>
+<gene name="DISARM_1__drmMI" presence="forbidden"/>
+
+
+</model>

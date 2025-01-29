@@ -1,12 +1,30 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
 
-<gene name="RM__Type_I_MTases" presence="mandatory">
+<gene name="RM__Type_I_MTases_FAM_0" presence="mandatory">
 <exchangeables>
-<gene name ="PrrC__EcoprrI"/>
+<gene name="RM__Type_I_MTases_FAM_1"/>
+<gene name="RM__Type_I_MTases_FAM_2"/>
+<gene name="RM__Type_I_MTases_FAM_3"/>
 </exchangeables>
 </gene>
 
-<gene name="RM__Type_I_REases" presence="mandatory"/>
-<gene name="RM__Type_I_S" presence="accessory"/>
+<gene name="RM__Type_I_REases_FAM_0.einsi_trimmed" presence="mandatory">
+<exchangeables>
+<gene name="RM__Type_I_REases_FAM_1.einsi_trimmed"/>
+<gene name="RM__Type_I_REases_FAM_2.einsi_trimmed"/>
+</exchangeables>
+</gene>
+
+
+<gene name="RM__Type_I_S_01" presence="mandatory">
+<exchangeables>
+<gene name="RM__Type_I_S_02"/>
+<gene name="RM__Type_I_S_03"/>
+<gene name="RM__Type_I_S_04"/>
+<gene name="RM__Type_I_S_06"/>
+<gene name="RM__Type_I_S_51"/>
+<gene name="RM__Type_I_S_52"/>
+</exchangeables>
+</gene>
 
 </model>
