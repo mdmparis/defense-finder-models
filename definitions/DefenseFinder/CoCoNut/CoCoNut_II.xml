@@ -1,0 +1,36 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="5" vers="2.0">
+
+<gene name="CoCoNut-II__II_TerY" presence="accessory">
+<exchangeables>
+<gene name="CoCoNut-III-A__III-A_TerY"/>
+</exchangeables>
+</gene>
+
+<gene name="CoCoNut-II__II_PP2C" presence="accessory">
+<exchangeables>
+<gene name="CoCoNut-III-A__III-A_PP2C"/>
+</exchangeables>
+</gene>
+
+<gene name="CoCoNut-II__II_STK" presence="accessory">
+<exchangeables>
+<gene name="CoCoNut-III-A__III-A_STK"/>
+</exchangeables>
+</gene>
+
+<gene name="CoCoNut-II__II_CnuE" presence="accessory">
+<exchangeables>
+<gene name="CoCoNut-III-A__III-A_CnuE"/>
+</exchangeables>
+</gene>
+
+<gene name="CoCoNut-II__II_CnuH" presence="accessory">
+<exchangeables>
+<gene name="CoCoNut-III-A__III-A_CnuH"/>
+</exchangeables>
+</gene>
+
+<gene name="CoCoNut-II__II_CnuB" presence="mandatory"/>
+<gene name="CoCoNut-II__II_CnuC" presence="mandatory"/>
+
+</model>

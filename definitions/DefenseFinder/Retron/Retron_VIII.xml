@@ -1,0 +1,21 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+<gene name="Retron__RT_Tot_1" presence="mandatory">
+<exchangeables>
+<gene name="Retron__RT_Tot_2" />
+<gene name="Retron__RT_Tot_3" />
+<gene name="Retron__RT_Tot_4" />
+<gene name="Retron__RT_Tot_5" />
+<gene name="Retron__RT_Tot_6" />
+<gene name="Retron__RT_Tot_7" />
+<gene name="Retron__RT_Tot_8" />
+<gene name="Retron__RT_Tot_9" />
+<gene name="Retron__RT_Tot_10" />
+<gene name="Retron__RT_Tot_11" />
+<gene name="Retron__RT_Tot_12" />
+<gene name="Retron__RT_Tot_13" />
+<gene name="Retron__RT_Tot_14" />
+<gene name="Retron__RT_Tot_15" />
+</exchangeables>
+</gene>
+<gene name="Retron_VIII__DUF626" presence="mandatory"/>
+</model>

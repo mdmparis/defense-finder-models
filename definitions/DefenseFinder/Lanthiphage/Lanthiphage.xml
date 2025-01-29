@@ -1,0 +1,31 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+<gene name="Lanthiphage__LphB1" presence="mandatory">
+<exchangeables>
+<gene name="Lanthiphage__LphB2"/>
+<gene name="Lanthiphage__LphB3"/>
+<gene name="Lanthiphage__LphB4"/>
+</exchangeables>
+</gene>
+
+<gene name="Lanthiphage__LphC" presence="mandatory"/>
+<gene name="Lanthiphage__LphD" presence="mandatory"/>
+<gene name="Lanthiphage__LphE" presence="mandatory"/>
+<gene name="Lanthiphage__LphDE" presence="mandatory"/>
+<gene name="Lanthiphage__LphF" presence="mandatory"/>
+
+
+<gene name="Lanthiphage__LphA" presence="mandatory">
+<exchangeables>
+<gene name="Lanthiphage__LphA_variant_1"/>
+<gene name="Lanthiphage__LphA_variant_2"/>
+<gene name="Lanthiphage__LphA_variant_3"/>
+<gene name="Lanthiphage__LphA_variant_4"/>
+<gene name="Lanthiphage__LphA_variant_5"/>
+<gene name="Lanthiphage__LphA_variant_6"/>
+<gene name="Lanthiphage__LphA_variant_7"/>
+<gene name="Lanthiphage__LphA_variant_8"/>
+<gene name="Lanthiphage__LphA_variant_9"/>
+</exchangeables>
+</gene>
+
+</model>

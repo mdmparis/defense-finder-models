@@ -1,0 +1,4 @@
+<model inter_gene_max_space="3" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+<gene name="DS-1__DS-1A"  presence="mandatory"/>
+<gene name="DS-1__DS-1B"  presence="mandatory"/>
+</model>

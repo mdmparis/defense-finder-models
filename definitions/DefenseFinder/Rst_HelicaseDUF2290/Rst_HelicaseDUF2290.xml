@@ -1,0 +1,9 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+<gene name="Rst_HelicaseDUF2290__Helicase" presence="mandatory"/>
+<gene name="Rst_HelicaseDUF2290__DUF2290" presence="mandatory">
+<exchangeables>
+<gene name="Rst_HelicaseDUF2290__DUF2290_Pers"/>
+</exchangeables>
+</gene>
+
+</model>

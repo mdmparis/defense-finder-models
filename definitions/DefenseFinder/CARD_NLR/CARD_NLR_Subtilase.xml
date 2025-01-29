@@ -1,0 +1,41 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="3" vers="2.0">
+
+<gene name="CARD_NLR__CARD_Protease" presence="accessory">
+<exchangeables>
+	<gene name="CARD_NLR__CARD_Protease_supposed" />
+	<gene name="CARD_NLR__CARD_Protease_new"  />
+</exchangeables>
+</gene>
+
+<gene name="CARD_NLR__Trypsin" presence="accessory">
+<exchangeables>
+	<gene name="CARD_NLR__Trypsin_new"/>
+</exchangeables>
+</gene>
+
+<gene name="CARD_NLR__NLR_new" presence="accessory" >
+<exchangeables>
+	<gene name="CARD_NLR__NLR_IMG" />
+</exchangeables>
+</gene>
+
+
+<gene name="GasderMIN__bGSDM" presence='forbidden'/>
+
+
+
+<gene name="CARD_NLR__Endonuclease" presence="forbidden"/>
+<gene name="CARD_NLR__Endonuclease_new" presence="forbidden"/>
+<gene name="CARD_NLR__Trypsine_Endonuclease_new" presence="forbidden"/>
+
+<gene name="CARD_NLR__Subtilase_small_new" presence='mandatory'>
+<exchangeables>
+<!-- <gene name="CARD_NLR__Subtilase_long_new" /> -->
+<gene name="CARD_NLR__Subtilase" />
+</exchangeables>
+</gene>
+
+<gene name="CARD_NLR__Trypsin_Phospho" presence="forbidden"/>
+<gene name="CARD_NLR__Phospho" presence="forbidden"/>
+<gene name="CARD_NLR__Phospho_Trypsin" presence="forbidden"/>
+</model>

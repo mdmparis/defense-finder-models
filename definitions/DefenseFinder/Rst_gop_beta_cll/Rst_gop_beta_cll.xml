@@ -1,0 +1,10 @@
+<model inter_gene_max_space="6" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="Rst_gop_beta_cll__beta" presence="mandatory"/>
+
+<gene name="Rst_gop_beta_cll__cll" presence="mandatory"/>
+
+<gene name="Rst_gop_beta_cll__gop" presence="mandatory"/>
+
+
+</model>

@@ -1,7 +1,0 @@
-<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
-<gene name="Retron__RT_Tot" presence="mandatory"/>
-<gene name="Retron_III__PRTase" presence="mandatory"/>
-<gene name="Retron_III__PRTase_WH" presence="mandatory"/>
-<gene name="Retron_III__WH" presence="accessory"/>
-
-</model>

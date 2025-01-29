@@ -1,0 +1,30 @@
+<model inter_gene_max_space="2" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="Ukko__UkkA1" presence="mandatory">
+<exchangeables>
+<gene name="Ukko__UkkA2"/>
+</exchangeables>
+</gene>
+
+<gene name="Ukko__UkkB1" presence="mandatory">
+<exchangeables>
+<gene name="Ukko__UkkB2"/>
+</exchangeables>
+</gene>
+
+<gene name="Ukko__UkkC1" presence="mandatory">
+<exchangeables>
+<gene name="Ukko__UkkC2"/>
+</exchangeables>
+</gene>
+
+<gene name="Ukko__UkkD1" presence="mandatory">
+<exchangeables>
+<gene name="Ukko__UkkD2"/>
+</exchangeables>
+</gene>
+
+
+
+
+</model>

@@ -1,0 +1,7 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="Gao_TerY__TerYA" presence="mandatory"/>
+<gene name="Gao_TerY__TerYB" presence="mandatory"/>
+<gene name="Gao_TerY__TerYC" presence="mandatory"/>
+
+</model>

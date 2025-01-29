@@ -1,0 +1,5 @@
+<model inter_gene_max_space="3" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+<gene name="DS-15__DS-15A"  presence="mandatory"/>
+<gene name="DS-15__DS-15B"  presence="mandatory"/>
+<gene name="DS-15__DS-15C"  presence="mandatory"/>
+</model>
