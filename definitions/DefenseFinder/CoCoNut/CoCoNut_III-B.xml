@@ -1,0 +1,11 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="4" vers="2.0">
+
+<gene name="CoCoNut-III-B__III-B_CnuA" presence="accessory"/>
+
+<gene name="CoCoNut-III-B__III-B_CnuB" presence="mandatory"/>
+<gene name="CoCoNut-III-B__III-B_CnuC" presence="mandatory"/>
+
+<gene name="CoCoNut-III-B__III-B_CnuD" presence="accessory"/>
+<gene name="CoCoNut-III-B__III-B_CnuHE" presence="accessory"/>
+
+</model>

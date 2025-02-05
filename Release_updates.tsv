@@ -1,155 +1,265 @@
-System	v1.2.4	Status_v1.2.4	Comment_v1.2.3	v1.0.0	v1.2.3	Status_v1.2.3	Comment_v1.2.3
-System	1	From version v1.2.3	no changes	v1.0.0	v1.2.3	Status_v1.2.3	Comment_v1.2.3
-AbiA	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiB	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiC	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiD	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiG	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiI	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiJ	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiK	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiL	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiN	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiO	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiP2	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiQ	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiR	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiT	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiU	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiV	1	From version v1.2.3	no changes	0	1	New	Previously
-AbiZ	1	From version v1.2.3	no changes	0	1	New	Previously
-Aditi	1	From version v1.2.3	no changes	0	1	New	
-Azaca	1	From version v1.2.3	no changes	0	1	New	
-Borvo	1	From version v1.2.3	no changes	0	1	New	
-Bunzi	1	From version v1.2.3	no changes	0	1	New	
-Butters_gp30_gp31	1	From version v1.2.3	no changes	0	1	New	Previously
-Butters_gp57r	1	From version v1.2.3	no changes	0	1	New	
-CapRel	1	From version v1.2.3	no changes	0	1	New	
-CARD_NLR	1	Modified	profile CARD_NLR__Subtilase_long_new removed, 2 subtilase profile remain.	0	1	New	
-Charlie_gp32	1	From version v1.2.3	no changes	0	1	New	Previously
-Dazbog	1	From version v1.2.3	no changes	0	1	New	
-Detocs	1	From version v1.2.3	no changes	0	1	New	
-DdmDE	1	From version v1.2.3	no changes	0	1	New	
-Dodola	1	From version v1.2.3	no changes	0	1	New	
-Dpd	1	From version v1.2.3	no changes	0	1	New	Previously
-Eleos	1	From version v1.2.3	no changes	0	1	New	
-FS_GIY_YIG	1	From version v1.2.3	no changes	0	1	New	
-FS_HEPN_TM	1	From version v1.2.3	no changes	0	1	New	
-FS_HP	1	From version v1.2.3	no changes	0	1	New	
-FS_HP_SDH_sah	1	From version v1.2.3	no changes	0	1	New	
-FS_HsdR_like	1	From version v1.2.3	no changes	0	1	New	
-FS_Sma	1	From version v1.2.3	no changes	0	1	New	
-GAPS1	1	From version v1.2.3	no changes	0	1	New	
-GAPS2	1	From version v1.2.3	no changes	0	1	New	
-GAPS4	1	From version v1.2.3	no changes	0	1	New	
-GAPS6	1	From version v1.2.3	no changes	0	1	New	
-Hna	1	From version v1.2.3	no changes	0	1	New	
-ISG15-like	1	From version v1.2.3	no changes	0	1	New	
-JukAB	1	From version v1.2.3	no changes	0	1	New	
-MADS	1	From version v1.2.3	no changes	0	1	New	
-MazEF	1	From version v1.2.3	no changes	0	1	New	Previously
-Menshen	1	From version v1.2.3	no changes	0	1	New	
-MMB_gp29_gp30	1	From version v1.2.3	no changes	0	1	New	Previously
-Mok_Hok_Sok	1	From version v1.2.3	no changes	0	1	New	Previously
-Mokosh	1	From version v1.2.3	no changes	0	1	New	
-MqsRAC	1	From version v1.2.3	no changes	0	1	New	
-NLR	1	From version v1.2.3	no changes	0	1	New	
-Olokun	1	From version v1.2.3	no changes	0	1	New	
-pAgo	1	From version v1.2.3	no changes	0	1	New	Previously
-Panchino_gp28	1	From version v1.2.3	no changes	0	1	New	Previously
-PD-Lambda-1	1	From version v1.2.3	no changes	0	1	New	
-PD-Lambda-2	1	From version v1.2.3	no changes	0	1	New	
-PD-Lambda-3	1	From version v1.2.3	no changes	0	1	New	
-PD-Lambda-4	1	From version v1.2.3	no changes	0	1	New	
-PD-Lambda-5	1	From version v1.2.3	no changes	0	1	New	
-PD-Lambda-6	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-1	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-10	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-2	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-3	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-4	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-5	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-6	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-7	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-8	1	From version v1.2.3	no changes	0	1	New	
-PD-T4-9	1	From version v1.2.3	no changes	0	1	New	
-PD-T7-1	1	From version v1.2.3	no changes	0	1	New	
-PD-T7-2	1	From version v1.2.3	no changes	0	1	New	
-PD-T7-3	1	From version v1.2.3	no changes	0	1	New	
-PD-T7-4	1	From version v1.2.3	no changes	0	1	New	
-PD-T7-5	1	From version v1.2.3	no changes	0	1	New	
-PfiAT	1	From version v1.2.3	no changes	0	1	New	
-Phrann_gp29_gp30	1	From version v1.2.3	no changes	0	1	New	Previously
-PsyrTA	1	From version v1.2.3	no changes	0	1	New	
-Pycsar	1	From version v1.2.3	no changes	0	1	New	
-RloC	1	From version v1.2.3	no changes	0	1	New	Previously
-RnlAB	1	From version v1.2.3	no changes	0	1	New	Previously
-RosmerTA	1	From version v1.2.3	no changes	0	1	New	
-SanaTA	1	From version v1.2.3	no changes	0	1	New	Previously
-SEFIR	1	From version v1.2.3	no changes	0	1	New	
-Shango	1	From version v1.2.3	no changes	0	1	New	
-ShosTA	1	From version v1.2.3	no changes	0	1	New	Replace
-SoFIC	1	From version v1.2.3	no changes	0	1	New	
-SpbK	1	From version v1.2.3	no changes	0	1	New	
-Tiamat	1	From version v1.2.3	no changes	0	1	New	
-Uzume	1	From version v1.2.3	no changes	0	1	New	
-Abi2	1	From version v1.2.3	no changes	1	1	From	version
-AbiE	1	From version v1.2.3	no changes	1	1	Modified	Rename
-AbiH	1	From version v1.2.3	no changes	1	1	From	version
-Avs	1	From version v1.2.3	no changes	1	1	Modified	Renamed
-BREX	1	From version v1.2.3	no changes	1	1	Modified	Subsystem
-BstA	1	From version v1.2.3	no changes	1	1	From	version
-Cas	1	From version v1.2.3	no changes	1	1	Modified	Now
-CBASS	1	From version v1.2.3	no changes	1	1	From	version
-DarTG	1	From version v1.2.3	no changes	1	1	From	version
-dCTPdeaminase	1	From version v1.2.3	no changes	1	1	From	version
-dGTPase	1	From version v1.2.3	no changes	1	1	From	version
-DISARM	1	From version v1.2.3	no changes	1	1	From	version
-Dnd	1	From version v1.2.3	no changes	1	1	From	version
-DRT	1	From version v1.2.3	no changes	1	1	Modified	Add
-Druantia	1	From version v1.2.3	no changes	1	1	From	version
-Dsr	1	From version v1.2.3	no changes	1	1	From	version
-Gabija	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Ape	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Her	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Hhe	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Iet	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Mza	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Ppl	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Qat	1	From version v1.2.3	no changes	1	1	From	version
-Gao_RL	1	From version v1.2.3	no changes	1	1	From	version
-Gao_TerY	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Tmn	1	From version v1.2.3	no changes	1	1	From	version
-Gao_Upx	1	From version v1.2.3	no changes	1	1	From	version
-GasderMIN	1	From version v1.2.3	no changes	1	1	From	version
-Hachiman	1	From version v1.2.3	no changes	1	1	From	version
-Kiwa	1	From version v1.2.3	no changes	1	1	From	version
-Lamassu-Fam	1	From version v1.2.3	no changes	1	1	Modified	Rename
-Lit	1	From version v1.2.3	no changes	1	1	From	version
-Nhi	1	From version v1.2.3	no changes	1	1	From	version
-NixI	1	From version v1.2.3	no changes	1	1	From	version
-Old_exonuclease	1	From version v1.2.3	no changes	1	1	Modified	Renamed
-Paris	1	From version v1.2.3	no changes	1	1	Modified	Renamed
-Pif	1	From version v1.2.3	no changes	1	1	From	version
-PrrC	1	From version v1.2.3	no changes	1	1	From	version
-RADAR	1	From version v1.2.3	no changes	1	1	From	version
-Retron	1	From version v1.2.3	no changes	1	1	From	version
-RexAB	1	From version v1.2.3	no changes	1	1	From	version
-RM	1	From version v1.2.3	no changes	1	1	From	version
-Rst_2TM_1TM_TIR	1	From version v1.2.3	no changes	1	1	From	version
-Rst_3HP	1	From version v1.2.3	no changes	1	1	From	version
-Rst_DUF4238	1	From version v1.2.3	no changes	1	1	From	version
-Rst_gop_beta_cll	1	From version v1.2.3	no changes	1	1	From	version
-Rst_HelicaseDUF2290	1	From version v1.2.3	no changes	1	1	From	version
-Rst_Hydrolase-3Tm	1	From version v1.2.3	no changes	1	1	From	version
-Rst_RT-nitrilase-Tm	1	From version v1.2.3	no changes	1	1	From	version
-Rst_TIR-NLR	1	From version v1.2.3	no changes	1	1	From	version
-Septu	1	From version v1.2.3	no changes	1	1	From	version
-Shedu	1	From version v1.2.3	no changes	1	1	From	version
-SspBCDE	1	From version v1.2.3	no changes	1	1	From	version
-Stk2	1	From version v1.2.3	no changes	1	1	From	version
-Thoeris	1	From version v1.2.3	no changes	1	1	From	version
-Viperin	1	From version v1.2.3	no changes	1	1	From	version
-Wadjet	1	From version v1.2.3	no changes	1	1	From	version
-Zorya	1	From version v1.2.3	no changes	1	1	From	version
-Rst_DprA-PPRT	1	From version v1.2.3	no changes	1	0	Removed	Contained
+System	v2.0.0	Status_v2.0.0	Comment_v2.0.0	Status_v1.2.4	Comment_v1.2.4	v1.0.0	v1.2.3	v1.2.4	Status_v1.2.3	Comment_v1.2.3
+6A_MBL	1	New				0	0	0		
+Abi2	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+AbiA	1	Modified	All UG group	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiAlpha	1	New				0	0	0		
+AbiB	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiC	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiD	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiE	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	Modified	Rename
+AbiG	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiH	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+AbiI	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiJ	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiK	1	Modified	All UG group	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiL	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiN	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiO	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiP2	1	Modified	All UG group	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiQ	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiR	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiT	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiU	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiV	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+AbiZ	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Aditi	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+All_UG	1	New				0	0	0		
+AspAB	1	New				0	0	0		
+Avs	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	Modified	Renamed
+Azaca	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Belenos	1	New				0	0	0		
+Belisama	1	New				0	0	0		
+Borvo	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+BREX	1	Modified	New profiles	From version v1.2.3	no changes	1	1	1	Modified	Subsystem
+Brig1	1	New				0	0	0		
+Brigantia	1	New				0	0	0		
+BstA	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Bunzi	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Butters_gp30_gp31	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Butters_gp57r	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+CapRel	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+CARD_NLR	1	Modified	profile CARD_NLR__Subtilase_long_new removed, 2 subtilase profile remain.	Modified	profile CARD_NLR__Subtilase_long_new removed, 2 subtilase profile remain.	0	1	1	New	
+Cas	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	Modified	Now
+CBASS	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Ceres	1	New				0	0	0		
+Cernunnos	1	New				0	0	0		
+Charlie_gp32	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+CoCoNut	1	New				0	0	0		
+Damona	1	New				0	0	0		
+DarTG	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Dazbog	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+dCTPdeaminase	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+DdmDE	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Detocs	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+dGTPase	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+DISARM	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Divona	1	New				0	0	0		
+Dnd	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Dodola	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Dpd	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+DRT	1	Modified	All UG group	From version v1.2.3	no changes	1	1	1	Modified	Add
+Druantia	1	Modified	Add subtype	From version v1.2.3	no changes	1	1	1	From	version
+DS-1	1	New				0	0	0		
+DS-10	1	New				0	0	0		
+DS-11	1	New				0	0	0		
+DS-12B	1	New				0	0	0		
+DS-13	1	New				0	0	0		
+DS-14	1	New				0	0	0		
+DS-15	1	New				0	0	0		
+DS-16	1	New				0	0	0		
+DS-17	1	New				0	0	0		
+DS-18	1	New				0	0	0		
+DS-19	1	New				0	0	0		
+DS-2	1	New				0	0	0		
+DS-20	1	New				0	0	0		
+DS-21	1	New				0	0	0		
+DS-22	1	New				0	0	0		
+DS-23	1	New				0	0	0		
+DS-24	1	New				0	0	0		
+DS-25	1	New				0	0	0		
+DS-27	1	New				0	0	0		
+DS-28	1	New				0	0	0		
+DS-29	1	New				0	0	0		
+DS-3	1	New				0	0	0		
+DS-31	1	New				0	0	0		
+DS-32	1	New				0	0	0		
+DS-33	1	New				0	0	0		
+DS-34	1	New				0	0	0		
+DS-35	1	New				0	0	0		
+DS-36	1	New				0	0	0		
+DS-37	1	New				0	0	0		
+DS-38	1	New				0	0	0		
+DS-39	1	New				0	0	0		
+DS-4	1	New				0	0	0		
+DS-40	1	New				0	0	0		
+DS-41	1	New				0	0	0		
+DS-42	1	New				0	0	0		
+DS-43	1	New				0	0	0		
+DS-44	1	New				0	0	0		
+DS-45	1	New				0	0	0		
+DS-5	1	New				0	0	0		
+DS-6	1	New				0	0	0		
+DS-7	1	New				0	0	0		
+DS-8	1	New				0	0	0		
+DS-9	1	New				0	0	0		
+Dsr	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Eleos	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Epona	1	New				0	0	0		
+Erebus	1	New				0	0	0		
+Esos	1	New				0	0	0		
+FS_GIY_YIG	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+FS_HEPN_TM	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+FS_HP	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+FS_HP_SDH_sah	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+FS_HsdR_like	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+FS_Sma	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Gabija	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Ape	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Her	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Hhe	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Iet	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Mza	1	Modified	New profiles, new definition	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Ppl	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Qat	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_RL	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_TerY	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Tmn	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Gao_Upx	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+GAPS1	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+GAPS2	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+GAPS4	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+GAPS6	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+GasderMIN	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+gcu142	1	New				0	0	0		
+gcu167	1	New				0	0	0		
+gcu233	1	New				0	0	0		
+gcu24	1	New				0	0	0		
+gcu76	1	New				0	0	0		
+gcuWGS21	1	New				0	0	0		
+Geb	1	New				0	0	0		
+Hachiman	1	Modified	Add subtype	From version v1.2.3	no changes	1	1	1	From	version
+HEC-01	1	New				0	0	0		
+HEC-02	1	New				0	0	0		
+HEC-03	1	New				0	0	0		
+HEC-04	1	New				0	0	0		
+HEC-05	1	New				0	0	0		
+HEC-06	1	New				0	0	0		
+HEC-07	1	New				0	0	0		
+HEC-08	1	New				0	0	0		
+HEC-09	1	New				0	0	0		
+Hma	1	New				0	0	0		
+Hna	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Hypnos	1	New				0	0	0		
+ISG15-like	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+JukAB	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Kiwa	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Lamassu-Fam	1	Modified	Add subtype	From version v1.2.3	no changes	1	1	1	Modified	Rename
+Lanthiphage	1	New				0	0	0		
+Lit	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Lugos	1	New				0	0	0		
+MADS	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+MADS3-4	1	New				0	0	0		
+MazEF	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Menshen	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+MMB_gp29_gp30	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Mok_Hok_Sok	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Mokosh	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+MqsRAC	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Nantosuelta	1	New				0	0	0		
+Nemetona	1	New				0	0	0		
+Nhi	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+NixI	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+NLR	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Ogmios	1	New				0	0	0		
+Old_exonuclease	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	Modified	Renamed
+Olokun	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Oshun	1	New				0	0	0		
+pAgo	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Panchino_gp28	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Paris	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	Modified	Renamed
+PD-Lambda-1	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-Lambda-2	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-Lambda-3	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-Lambda-4	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-Lambda-5	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-Lambda-6	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-1	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-10	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-2	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-3	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-4	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-5	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-6	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-7	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-8	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T4-9	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T7-1	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T7-2	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T7-3	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T7-4	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PD-T7-5	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+PfiAT	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Phrann_gp29_gp30	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+Pif	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Prithvi	1	New				0	0	0		
+Prometheus	1	New				0	0	0		
+PrrC	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+PsyrTA	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Pycsar	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+RADAR	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Retron	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+RexAB	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+RloC	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+RM	1	Modified	Split profiles	From version v1.2.3	no changes	1	1	1	From	version
+RnlAB	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Previously
+RosmerTA	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Rst_2TM_1TM_TIR	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Rst_3HP	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Rst_DprA-PPRT	0	Removed	Removed	From version v1.2.3	no changes	1	0	1	Removed	Contained
+Rst_DUF4238	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Rst_gop_beta_cll	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Rst_HelicaseDUF2290	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Rst_Hydrolase-3Tm	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Rst_RT-nitrilase-Tm	1	Modified	All UG group	From version v1.2.3	no changes	1	1	1	From	version
+Rst_TIR-NLR	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+SanaTA	1	Modified	New profile	From version v1.2.3	no changes	0	1	1	New	Previously
+SDIC1	1	New				0	0	0		
+SDIC3	1	New				0	0	0		
+SDIC4	1	New				0	0	0		
+SEFIR	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Septu	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Shango	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Shedu	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+ShosTA	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	Replace
+Sirona	1	New				0	0	0		
+SoFIC	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+SpbK	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+SspBCDE	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Stk2	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Sucellos	1	New				0	0	0		
+Taranis	1	New				0	0	0		
+TgvAB	1	New				0	0	0		
+Tha	1	New				0	0	0		
+Thoeris	1	Modified	Add subtype	From version v1.2.3	no changes	1	1	1	From	version
+Tiamat	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+TIR-I	1	New				0	0	0		
+TIR-III	1	New				0	0	0		
+TIR-IV	1	New				0	0	0		
+TIR-VII	1	New				0	0	0		
+TIR-VIII	1	New				0	0	0		
+Toutatis	1	New				0	0	0		
+Ukko	1	New				0	0	0		
+Uzume	1	From version v1.2.3	no changes	From version v1.2.3	no changes	0	1	1	New	
+Veles	1	New				0	0	0		
+Viperin	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+VP1796	1	New				0	0	0		
+VP1817	1	New				0	0	0		
+VP1823	1	New				0	0	0		
+VP1826	1	New				0	0	0		
+VP1839	1	New				0	0	0		
+VP1840	1	New				0	0	0		
+VP1848	1	New				0	0	0		
+VP1851	1	New				0	0	0		
+VP1853	1	New				0	0	0		
+Wadjet	1	From version v1.2.3	no changes	From version v1.2.3	no changes	1	1	1	From	version
+Zorya	1	Modified	Add subtype	From version v1.2.3	no changes	1	1	1	From	version

@@ -1,0 +1,11 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+<gene name="DRT2__DRT2" presence="mandatory">
+<exchangeables>
+<gene name="DRT_2__drt2"/>
+</exchangeables>
+</gene>
+
+<gene name="DRT2__YodC_WYL" presence="accessory"/>
+<gene name="DRT2__RmuC" presence="accessory"/>
+<gene name="DRT2__YodC" presence="accessory"/>
+</model>

@@ -1,0 +1,24 @@
+<model inter_gene_max_space="2" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="Veles__VlsA1" presence="mandatory">
+<exchangeables>
+<gene name="Veles__VlsA2"/>
+</exchangeables>
+</gene>
+
+<gene name="Veles__VlsB1" presence="mandatory">
+<exchangeables>
+<gene name="Veles__VlsB2"/>
+</exchangeables>
+</gene>
+
+<gene name="Veles__VlsC1" presence="mandatory">
+<exchangeables>
+<gene name="Veles__VlsC2"/>
+</exchangeables>
+</gene>
+
+
+
+
+</model>

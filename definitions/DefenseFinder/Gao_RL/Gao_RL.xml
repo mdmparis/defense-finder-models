@@ -1,0 +1,8 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="4" min_genes_required="4" vers="2.0">
+
+<gene name="Gao_RL__RL_A" presence="mandatory"/>
+<gene name="Gao_RL__RL_B" presence="mandatory"/>
+<gene name="Gao_RL__RL_C" presence="mandatory"/>
+<gene name="Gao_RL__RL_D" presence="mandatory"/>
+
+</model>

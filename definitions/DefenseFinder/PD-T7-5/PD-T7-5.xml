@@ -1,0 +1,3 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+<gene name="PD-T7-5__PD-T7-5" presence="mandatory"/>
+</model>

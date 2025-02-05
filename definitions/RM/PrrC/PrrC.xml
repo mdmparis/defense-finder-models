@@ -3,10 +3,32 @@
 <gene name="PrrC__PrrC" presence="mandatory" />
 <gene name="PrrC__EcoprrI" presence="mandatory">
 <exchangeables>
-<gene name="RM__Type_I_MTases"/>
+<gene name="RM__Type_I_MTases_FAM_0"/>
+<gene name="RM__Type_I_MTases_FAM_1"/>
+<gene name="RM__Type_I_MTases_FAM_2"/>
+<gene name="RM__Type_I_MTases_FAM_3"/>
 </exchangeables>
 </gene>
-<gene name="RM__Type_I_REases" presence="accessory"/>
-<gene name="RM__Type_I_S" presence="accessory"/>
+
+
+<gene name="RM__Type_I_REases_FAM_0.einsi_trimmed" presence="mandatory">
+<exchangeables>
+<gene name="RM__Type_I_REases_FAM_1.einsi_trimmed"/>
+<gene name="RM__Type_I_REases_FAM_2.einsi_trimmed"/>
+</exchangeables>
+</gene>
+
+
+<gene name="RM__Type_I_S_01" presence="mandatory">
+<exchangeables>
+<gene name="RM__Type_I_S_02"/>
+<gene name="RM__Type_I_S_03"/>
+<gene name="RM__Type_I_S_04"/>
+<gene name="RM__Type_I_S_06"/>
+<gene name="RM__Type_I_S_51"/>
+<gene name="RM__Type_I_S_52"/>
+</exchangeables>
+</gene>
+
 
 </model>

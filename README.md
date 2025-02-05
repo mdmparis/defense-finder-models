@@ -4,6 +4,12 @@ This repository contains MacSyFinder models allowing for a systematic search of 
 
 The repo is formatted according to [MacSyData guidelines](https://macsyfinder.readthedocs.io/en/latest/modeler_guide/index.html) and synchronized with [macsy-models repository](https://github.com/macsy-models) to be available in macsydata.
 
+## Warning v2.0.0
+
+To use defense-finder-models v2.0.0 and above, [defense-finder software](https://github.com/mdmparis/defense-finder) need to be updated to at least v2.0.0.
+
+To use previous version of the models download the appropriate version of the software.
+
 ## More information on the systems
 
 To simplify the access to the detection rules of the models we created a table (DefenseFinder_rules.tsv) that recapitulate all the rules of detections for each systems.

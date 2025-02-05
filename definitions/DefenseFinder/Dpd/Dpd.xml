@@ -1,0 +1,17 @@
+<model inter_gene_max_space="10" min_mandatory_genes_required="4" min_genes_required="4" vers="2.0">
+<gene name="Dpd__DpdA" presence="mandatory"/>
+<gene name="Dpd__DpdB" presence="mandatory"/>
+<gene name="Dpd__DpdC" presence="mandatory"/>
+<gene name="Dpd__DpdD" presence="mandatory"/>
+<gene name="Dpd__DpdE" presence="mandatory"/>
+<gene name="Dpd__DpdF" presence="mandatory"/>
+<gene name="Dpd__DpdG" presence="mandatory"/>
+<gene name="Dpd__DpdH" presence="mandatory"/>
+<gene name="Dpd__DpdI" presence="mandatory"/>
+<gene name="Dpd__DpdJ" presence="mandatory"/>
+<gene name="Dpd__DpdK" presence="mandatory"/>
+<gene name="Dpd__QueC" presence="accessory"/>
+<gene name="Dpd__QueD" presence="accessory"/>
+<gene name="Dpd__QueE" presence="accessory"/>
+<gene name="Dpd__FolE" presence="accessory"/>
+</model>

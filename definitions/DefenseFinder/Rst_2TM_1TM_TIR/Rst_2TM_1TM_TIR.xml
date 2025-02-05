@@ -1,0 +1,7 @@
+<model inter_gene_max_space="4" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="Rst_2TM_1TM_TIR__Rst_2TM_TIR" presence="mandatory"/>
+<gene name="Rst_2TM_1TM_TIR__Rst_TIR_tm" presence="mandatory"/>
+<gene name="Rst_2TM_1TM_TIR__Rst_1TM_TIR" presence="mandatory"/>
+
+</model>
