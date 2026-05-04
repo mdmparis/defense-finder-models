@@ -1,9 +1,9 @@
 ---
 maintainer:
-  name: Florian Tesson
-  email: florian.tesson@pasteur.fr
+  name: Florian Tesson & Jean Cury
+  email: jean.cury@pasteur.fr
 short_desc: Allow for a systematic search of all known anti-phage systems
-vers: 2.0.2
+vers: 3.0.0
 license: GPL-3.0
 doc: https://defensefinder.mdmlab.fr/wiki
 cite:
@@ -17,7 +17,7 @@ cite:
     Tesson, Florian, Remi Planel, Artyom A. Egorov, Heloise Georjon, 
     Hugo Vaysset, Bryan Brancotte, Bertrand Neron, et al.
     “A Comprehensive Resource for Exploring Antiphage Defense: DefenseFinder
-    Webservice, Wiki and Databases.” bioRxiv, January 26, 2024.
-    https://doi.org/10.1101/2024.01.25.577194.
+    Webservice, Wiki and Databases.”  Peer Community Journal (September 25, 2024).
+    https://doi.org/10.24072/pcjournal.470.
 license: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 copyright: 2022-2024, Institut Pasteur, CNRS
