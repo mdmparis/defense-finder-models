@@ -44,7 +44,7 @@
 
 <gene name="CARD_NLR__Trypsin_Phospho" presence="mandatory" >
 <exchangeables>
-<gene name="GasderMIN__bGSDM" />
+<gene name="Gasdermin__bGSDM" />
 </exchangeables>
 </gene>
 

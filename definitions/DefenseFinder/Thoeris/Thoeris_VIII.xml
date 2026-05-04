@@ -1,0 +1,11 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+
+<gene name="Thoeris__ThsB_9" presence="mandatory" multi_model="1"/>
+
+<gene name="Thoeris__ThsI_CMP_TPR" presence="mandatory"/>
+
+
+
+
+</model>

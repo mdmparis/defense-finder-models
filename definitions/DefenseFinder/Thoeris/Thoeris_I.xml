@@ -1,7 +1,19 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
 
 
-<gene name="Thoeris_I__ThsA_new_grand" presence="mandatory"/>
-<gene name="Thoeris__ThsB_Global" presence="mandatory"/>
+<gene name="Thoeris__ThsB_1" presence="mandatory" multi_model="1">
+<exchangeables>
+<gene name="Thoeris__ThsB_2" multi_model="1"/>
+<gene name="Thoeris__ThsB_11" multi_model="1"/>
+</exchangeables>
+</gene>
+
+<gene name="Thoeris__ThsA_SIRim" presence="mandatory"/>
+
+<gene name="Thoeris__ThsB_acc" presence="accessory" multi_model="1"/>
+<gene name="Thoeris__ThsB_9" presence="accessory" multi_model="1"/>
+
+
+
 
 </model>

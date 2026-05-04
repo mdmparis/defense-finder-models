@@ -1,0 +1,56 @@
+<model inter_gene_max_space="2" min_mandatory_genes_required="1" min_genes_required="3" vers="2.0">
+
+<gene name="RM_Type_II__Type_II_MTases_FAM_11" presence="mandatory">
+<exchangeables>
+<gene name="RM_Type_II__Type_II_MTases_FAM_23"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_24"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_35"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_39"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_4"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_5"/>
+</exchangeables>
+</gene>
+
+
+
+<gene name="RM_Type_II__Type_II_REase01" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase02" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase03" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase04" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase05" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase06" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase07" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase08" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase09" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase10" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase11" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase12" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase13" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase14" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase15" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase16" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase17" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase18" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase19" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase20" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase21" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase22" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase23" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase24" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase25" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase26" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase27" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase28" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase29" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase30" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase31" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase32" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase33" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase34" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase35" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase37" presence="accessory" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase38" presence="accessory" multi_model="1"/>
+
+<gene name="Gao_Mza__MzaC" presence="neutral"/>
+<gene name="Gao_Mza__MzaB" presence="neutral"/>
+</model>

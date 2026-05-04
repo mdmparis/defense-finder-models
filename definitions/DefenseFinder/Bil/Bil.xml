@@ -1,0 +1,8 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="4" vers="2.0">
+
+<gene name="Bil__BilA" presence="mandatory"/>
+<gene name="Bil__BilB" presence="mandatory"/>
+<gene name="Bil__BilC" presence="mandatory"/>
+<gene name="Bil__BilD" presence="mandatory"/>
+
+</model>

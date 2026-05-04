@@ -1,0 +1,8 @@
+<model inter_gene_max_space="2" min_mandatory_genes_required="1" min_genes_required="1" vers="2.0">
+
+<gene name="RM_Type_IV__Type_IV_03" presence="mandatory"/>
+<gene name="RM_Type_IV__Type_IV_05" presence="mandatory"/>
+<gene name="RM_Type_IV__FAM_0" presence="mandatory"/>
+
+
+</model>

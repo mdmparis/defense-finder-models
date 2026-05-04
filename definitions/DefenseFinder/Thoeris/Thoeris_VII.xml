@@ -1,0 +1,21 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+
+<gene name="Thoeris__ThsB_3" presence="mandatory" multi_model="1">
+<exchangeables>
+<gene name="Thoeris__ThsB_12" multi_model="1"/>
+<gene name="Thoeris__ThsB_9" multi_model="1"/>
+<gene name="Thoeris__ThsB_7" multi_model="1"/>
+<gene name="Thoeris__ThsB_8" multi_model="1"/>
+<gene name="Thoeris__ThsB_10" multi_model="1"/>
+<gene name="Thoeris__ThsB_13" multi_model="1"/>
+</exchangeables>
+</gene>
+
+<gene name="Thoeris__ThsH_SLATT" presence="mandatory">
+<exchangeables>
+<gene name="Thoeris__ThsH_SLATT2"/>
+</exchangeables>
+</gene>
+
+</model>

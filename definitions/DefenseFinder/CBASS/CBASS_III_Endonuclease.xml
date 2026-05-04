@@ -1,0 +1,26 @@
+<model inter_gene_max_space="6" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="CBASS__Cyclase_SMODS" presence="mandatory">
+<exchangeables>
+<gene name="CBASS__A_Cyclase_AGS_C"/>
+<gene name="CBASS__Cyclase_II"/>
+<gene name="CBASS__Cyclase_new"/>
+</exchangeables>
+</gene>
+<gene name="CBASS__Endonuc_small" presence="mandatory"/>
+
+<gene name="CBASS__HORMA" presence="mandatory">
+<exchangeables>
+<gene name="CBASS__TRIP13"/>
+<gene name="CBASS__bacHORMA_2"/>
+<gene name="CBASS__bacHORMA_1"/>
+</exchangeables>
+</gene>
+
+<gene name="CBASS__TGT" presence="neutral">
+<exchangeables>
+<gene name="CBASS__QueC"/>
+<gene name="CBASS__OGG"/>
+</exchangeables>
+</gene>
+</model>

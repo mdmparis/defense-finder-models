@@ -4,46 +4,44 @@
 <gene name="Lamassu-Fam__Lmu_DS-30A" presence="mandatory"/>
 
 
-<gene name="Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II" presence="mandatory">
+<gene name="Lamassu__LmuB_Short" presence="mandatory"/>
+
+
+
+<gene name="Lamassu__LmuC_Clade_I" presence="mandatory">
 <exchangeables>
-<gene name="Lamassu-Fam__LmuB_SMC_Cap4_nuclease"/>
-<gene name="Lamassu-Fam__LmuB_SMC_Amidase"/>
-<gene name="Lamassu-Fam__LmuB_SMC_Lipase"/>
-<gene name="Lamassu-Fam__LmuB_SMC_Mrr"/>
-<gene name="Lamassu-Fam__LmuB_SMC_PDDEXK"/>
-<gene name="Lamassu-Fam__LmuB_SMC_Hydrolase_protease"/>
-<gene name="Lamassu-Fam__LmuB_SMC_Sir2"/>
-<gene name="Lamassu-Fam__LmuB_SMC_hypothetical"/>
-<gene name="Lamassu-Fam__LmuB_SMC_FMO"/>
-<gene name="Lamassu-Fam__LmuB_DS-30D"/>
+<gene name="Lamassu__LmuC_Clade_II"/>
+<gene name="Lamassu__LmuC_Clade_III"/>
+<gene name="Lamassu__LmuC_Clade_IV"/>
+<gene name="Lamassu__LmuC_Clade_V"/>
+<gene name="Lamassu__LmuC_Clade_VI"/>
+<gene name="Lamassu__LmuC_Clade_VII"/>
+<gene name="Lamassu__LmuC_MC1"/>
+<gene name="Lamassu__LmuC_MC2"/>
+<gene name="Lamassu__LmuC_MC3"/>
+<gene name="Lamassu__LmuC_MC4"/>
+<gene name="Lamassu__LmuC_MC5"/>
+<gene name="Lamassu__LmuC_MC6"/>
+<gene name="Lamassu__LmuC_MC7"/>
+<gene name="Lamassu__LmuC_MC8"/>
 </exchangeables>
 </gene>
 
-
-<gene name="Lamassu-Fam__LmuC_acc_Lipase" presence="accessory">
-<exchangeables>
-<gene name="Lamassu-Fam__LmuC_acc_Cap4_nuclease"/>
-<gene name="Lamassu-Fam__LmuC_acc_Mrr"/>
-<gene name="Lamassu-Fam__LmuC_acc_PDDEXK"/>
-<gene name="Lamassu-Fam__LmuC_acc_hydrolase_protease"/>
-<gene name="Lamassu-Fam__LmuC_acc_Sir2"/>
-<gene name="Lamassu-Fam__LmuC_acc_hypothetical"/>
-<gene name="Lamassu-Fam__LmuC_acc_FMO"/>
-<gene name="Lamassu-Fam__LmuC_DS-30C"/>
-</exchangeables>
-</gene>
-
-<gene name="Lamassu-Fam__LmuA_effector_Cap4_nuclease_II" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_Cap4_nuclease" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_Lipase" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_Mrr" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_PDDEXK" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_Hydrolase" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_Protease" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_Sir2" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_hypothetical" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_FMO" presence="forbidden"/>
-<gene name="Lamassu-Fam__LmuA_effector_Amidase" presence="forbidden"/>
+<gene name="Lamassu__LmuA_legacy_Cap4_I" presence="forbidden"/>
+<gene name="Lamassu__LmuA_legacy_Cap4_II" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Protease" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Protease_II" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Lipase" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Sir2_I" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Sir2_II" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Mrr" presence="forbidden"/>
+<gene name="Lamassu__LmuA_FMO" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Cap4_I" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Cap4_II" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Cap4_III" presence="forbidden"/>
+<gene name="Lamassu__LmuA_SMEK" presence="forbidden"/>
+<gene name="Lamassu__LmuA_HNH" presence="forbidden"/>
+<gene name="Lamassu__LmuA_Mrr_II" presence="forbidden"/>
 
 </model>
 

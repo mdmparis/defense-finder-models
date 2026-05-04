@@ -1,0 +1,8 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="Armada_type_I__ArmA1_redo" presence="mandatory"/>
+<gene name="Armada_type_I__ArmB1_redo" presence="mandatory"/>
+<gene name="Armada_type_I__ArmC1_redo" presence="mandatory"/>
+
+</model>
+
