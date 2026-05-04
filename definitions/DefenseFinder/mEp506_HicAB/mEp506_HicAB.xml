@@ -1,0 +1,7 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="mEp506_HicAB__HicA" presence="mandatory"/>
+<gene name="mEp506_HicAB__HicB" presence="mandatory"/>
+<gene name="mEp506_HicAB__HicC" presence="mandatory"/>
+
+</model>

@@ -1,0 +1,25 @@
+<model inter_gene_max_space="6" min_mandatory_genes_required="3" min_genes_required="3" vers="2.0">
+
+<gene name="CBASS__Cyclase_SMODS" presence="mandatory">
+<exchangeables>
+<gene name="CBASS__A_Cyclase_AGS_C"/>
+<gene name="CBASS__Cyclase_II"/>
+<gene name="CBASS__Cyclase_new"/>
+</exchangeables>
+</gene>
+
+
+
+<gene name="CBASS__E2" presence="mandatory">
+<exchangeables>
+<gene name="CBASS__AG_E1_ThiF" />
+<gene name="CBASS__AG_E2_Prok-E2_B"/>
+<gene name="CBASS__E2_II"/>
+</exchangeables>
+</gene>
+
+<gene name="CBASS__Jab" presence="mandatory"/>
+
+<gene name="CBASS__SAVED_HNH" presence="mandatory"/>
+
+</model>

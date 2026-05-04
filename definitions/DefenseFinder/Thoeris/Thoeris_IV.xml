@@ -1,8 +1,17 @@
 <model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
 
-<gene name="Thoeris_IV__ThsA_Casp4" presence="mandatory"/>
 
-<gene name="Thoeris__ThsB_Global" presence="mandatory"/>
+<gene name="Thoeris__ThsB_4" presence="mandatory" multi_model="1">
+<exchangeables>
+<gene name="Thoeris__ThsB_5" multi_model="1"/>
+</exchangeables>
+</gene>
+
+<gene name="Thoeris__ThsA_Caps4" presence="mandatory"/>
+
+<gene name="Thoeris__ThsB_acc2" presence="accessory" multi_model="1"/>
+
+
 
 
 </model>

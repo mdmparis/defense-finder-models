@@ -1,0 +1,17 @@
+<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+
+<gene name="Thoeris__ThsB_6" presence="mandatory" multi_model="1">
+<exchangeables>
+<gene name="Thoeris__ThsB_1" multi_model="1"/>
+<gene name="Thoeris__ThsB_2" multi_model="1"/>
+</exchangeables>
+</gene>
+
+
+<gene name="Thoeris__ThsF_DUF2270" presence="mandatory"/>
+
+
+
+
+</model>

@@ -1,0 +1,70 @@
+<model inter_gene_max_space="2" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
+
+<gene name="RM_Type_II__Type_II_MTases_FAM_1" presence="mandatory">
+<exchangeables>
+<gene name="RM_Type_II__Type_II_MTases_FAM_12"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_18"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_19"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_20"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_25"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_26"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_27"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_3"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_36"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_37"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_38"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_7"/>
+<gene name="RM_Type_II__Type_II_MTases_FAM_8"/>
+<gene name="RM_Type_III__Type_III_MTases_FAM_0"/>
+<gene name="RM_Type_III__Type_III_MTases_FAM_1"/>
+</exchangeables>
+</gene>
+
+
+<gene name="RM_Type_II__Type_II_REase08" presence="mandatory" multi_model="1">
+<exchangeables>
+<gene name="RM_Type_II__Type_II_REase13" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase24" multi_model="1"/>
+<gene name="RM_Type_II__Type_II_REase37" multi_model="1"/>
+</exchangeables>
+</gene>
+
+
+<gene name="RM_Type_II__Type_II_REase01" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase02" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase03" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase04" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase05" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase06" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase07" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase09" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase10" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase11" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase12" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase14" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase15" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase16" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase17" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase18" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase19" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase20" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase21" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase22" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase23" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase25" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase26" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase27" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase28" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase29" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase30" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase31" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase32" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase33" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase34" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase35" presence="forbidden"/>
+<gene name="RM_Type_II__Type_II_REase38" presence="forbidden"/>
+
+
+<gene name="Gao_Mza__MzaC" presence="neutral"/>
+<gene name="Gao_Mza__MzaB" presence="neutral"/>
+</model>
