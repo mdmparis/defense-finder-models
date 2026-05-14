@@ -1,6 +1,0 @@
-<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="2" vers="2.0">
-
-<gene name="Avs_III__Avs3A" presence="mandatory"/>
-<gene name="Avs_III__Avs3B" presence="mandatory"/>
-
-</model>

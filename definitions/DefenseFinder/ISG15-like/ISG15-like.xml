@@ -1,8 +1,0 @@
-<model inter_gene_max_space="5" min_mandatory_genes_required="2" min_genes_required="4" vers="2.0">
-
-<gene name="ISG15-like__BilA" presence="mandatory"/>
-<gene name="ISG15-like__BilB" presence="mandatory"/>
-<gene name="ISG15-like__BilC" presence="mandatory"/>
-<gene name="ISG15-like__BilD" presence="mandatory"/>
-
-</model>
